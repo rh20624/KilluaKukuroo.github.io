@@ -54,24 +54,24 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Wenjun Lyu"
+  name   : "Zhiqing Hong"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. in Computer Science and Technology, Rutgers University "
+  bio    : "Ph.D. in Computer Science, Rutgers University "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wenjun.lyu@rutgers.edu "
+      url: "mailto:zhiqing.hong@rutgers.edu "
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/wenjun-lyu-992a50175/"
+      url: "https://www.linkedin.cn/incareer/in/zhiqing-hong-781a62109?trk=public_profile_browsemap"
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wenjun.lyu@rutgers.edu "
+      url: "mailto:zhiqing.hong@rutgers.edu "
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/wenjun-lyu-992a50175/"
+      url: "https://www.linkedin.cn/incareer/in/zhiqing-hong-781a62109?trk=public_profile_browsemap"
 
 defaults:
   # _posts
