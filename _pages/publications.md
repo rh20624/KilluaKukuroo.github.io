@@ -38,14 +38,3 @@ Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Weihe Li, Zhaoyi Li, Wenchao Jiang, Jia
 <span style="color:Firebrick;font-weight:bold">[Laboratory Science]</span> *Design of Network Security Experiment Based on Floodlight Controller* <br>
 Jiawei Huang, **Wenjun Lv**, Weiping Wang<br>
 
-
-## National Patent
-
-*A Packet Spraying Method Based on Packet Queuing Delay in DCN* <br>
-Jiawei Huang, **Wenjun Lv**, Weihe Li, Jinbin Hu, Jianxin Wang <br>
-
-*Coding-based Packet Spraying Method in DCN* <br>
-Jiawei Huang, Jinbin Hu, **Wenjun Lv**, Jingling Liu, Jianxin Wang <br>
-
-*A Heterogeneous Flow Partition Method Based on Packet Spraying in DCN* <br>
-Jiawei Huang, Jingling Liu, Jinbin Hu,**Wenjun Lv**, Jianxin Wang <br>
