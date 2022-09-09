@@ -33,4 +33,4 @@ My research interests are broadly in the areas of **Human-Centered Cyber-Physica
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VUzuGzdDIXT10ku_aUuY2VDKm0mMNjK2g6da6P3BbMQ&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VUzuGzdDIXT10ku_aUuY2VDKm0mMNjK2g6da6P3BbMQ&cl=ffffff&w=253&t=m"></script>
