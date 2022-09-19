@@ -7,8 +7,8 @@ author_profile: true
 ***
 **Biography**
 
-I am currently a second-year Ph.D. student at Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/).
-My research interests are broadly in the areas of **Human-Centered Cyber-Physical Systems**, **Spatio-Temporal Data Mining**, and **Decision-Making in Smart Cities**. Feel free to drop me an email at zhiqing AT rutgers DOT edu.
+I am currently a second-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/).
+My research interests are broadly in the areas of **Human-Centered Cyber-Physical Systems**, **Spatio-Temporal Data Mining**, and **Decision-Making in Smart Cities**. Feel free to drop me an email at zhiqing.hong AT rutgers DOT edu.
 
 **Recent News**
 
