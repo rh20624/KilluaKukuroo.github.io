@@ -7,11 +7,15 @@ author_profile: true
 ***
 **Biography**
 
-I am currently a second-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/).
-My research interests are broadly in the areas of **Human-Centered Cyber-Physical Systems**, **Spatio-Temporal Data Mining**, and **Decision-Making in Smart Cities**. Feel free to drop me an email at zhiqing.hong AT rutgers DOT edu.
+I am currently a fourth-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I also work close with Prof. [Yunhuai Liu]([https://www.cs.rutgers.edu/~dz220/](http://www.yunhuai.net/Yunhuai.htm)). 
+My research interests are broadly in the areas of **Human-Centered Cyber-Physical Systems**, **Crowd Sensing and Infrastructure Sensing**, **Spatio-Temporal Data Mining**, and **Decision-Making in Smart Cities**. Feel free to drop me an email at zhiqing.hong AT rutgers DOT edu.
 
 **Recent News**
-
+* Aug.2023: Serve as a PC member for WSDM 2024.
+* Aug.2023: Two papers accepted by CIKM'23.
+* Aug.2023: Serve as Reviewer for EMNLP 2023.
+* Feb.2023: One co-authored paper accepted by ICDE'23.
+* Aug.2023: Serve as Reviewer for KDD 2023.
 * Aug.2022: Two papers accepted by SIGSPATIAL'22.
 * Aug.2022: One paper accepted by CIKM'22.
 * Apr.2022: Two papers accepted by Ubicomp'22.
