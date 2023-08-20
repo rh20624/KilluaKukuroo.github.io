@@ -15,7 +15,7 @@ My research interests are broadly in the areas of **Human-Centered Cyber-Physica
 * Aug.2023: Two papers accepted by CIKM'23.
 * Aug.2023: Serve as Reviewer for EMNLP 2023.
 * Feb.2023: One co-authored paper accepted by ICDE'23.
-* Aug.2023: Serve as Reviewer for KDD 2023.
+* Feb.2023: Serve as Reviewer for KDD 2023.
 * Aug.2022: Two papers accepted by SIGSPATIAL'22.
 * Aug.2022: One paper accepted by CIKM'22.
 * Apr.2022: Two papers accepted by Ubicomp'22.
