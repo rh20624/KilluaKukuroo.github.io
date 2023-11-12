@@ -7,10 +7,13 @@ author_profile: true
 ***
 **Biography**
 
-I am currently a fourth-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I also work close with Prof. [Yunhuai Liu]([https://www.cs.rutgers.edu/~dz220/](http://www.yunhuai.net/Yunhuai.htm)). 
-My research interests are broadly in the areas of **Human-Centered Cyber-Physical Systems**, **Crowd Sensing and Infrastructure Sensing**, **Spatio-Temporal Data Mining**, and **Decision-Making in Smart Cities**. Feel free to drop me an email at zhiqing.hong AT rutgers DOT edu.
+I am currently a fourth-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I also work closely with Prof. [Yunhuai Liu]([https://www.cs.rutgers.edu/~dz220/](http://www.yunhuai.net/Yunhuai.htm)). 
+My research interests are broadly in the areas of **Human-Centered Cyber-Physical Systems**, **Crowd Sensing and Infrastructure Sensing**, **Spatio-Temporal Data Mining**, and **Sensor-based Human Activity Recognition**. Feel free to drop me an email at zhiqing.hong AT rutgers DOT edu.
 
 **Recent News**
+* Oct.2023: Serve as a PC member for AAAI 2024.
+* Sep.2023: Serve as a reviewer for TOSN.
+* Sep.2023: Serve as a PC member for ICWSM 2024 and SDM 2024.
 * Aug.2023: Serve as a PC member for WSDM 2024.
 * Aug.2023: Two papers accepted by CIKM'23.
 * Aug.2023: Serve as Reviewer for EMNLP 2023.
