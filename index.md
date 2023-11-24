@@ -11,6 +11,8 @@ I am currently a fourth-year Ph.D. student at the Computer Science Department, R
 My research interests are broadly in the areas of **Human-Centered Cyber-Physical Systems**, **Crowd Sensing and Infrastructure Sensing**, **Spatio-Temporal Data Mining**, and **Sensor-based Human Activity Recognition**. Feel free to drop me an email at zhiqing.hong AT rutgers DOT edu.
 
 **Recent News**
+* Nov.2023: Serve as a Reviewer for AISTATS 2024.
+* Nov.2023: Serve as a PC member for LREC-COLING 2024. 
 * Nov.2023: Serve as a Reviewer for DMLR (first round of submission).
 * Oct.2023: Serve as a PC member for AAAI 2024.
 * Sep.2023: Serve as a reviewer for TOSN.
