@@ -11,14 +11,12 @@ I am currently a fourth-year Ph.D. student at the Computer Science Department, R
 My research interests are broadly in the areas of **Human-Centered Cyber-Physical Systems**, **Spatio-Temporal Data Mining**, and **Sensor-based Human Activity Recognition**. Recently, I have been especially interested in **Aligning LLM for Multi-modal Sensor Data**. Feel free to drop me an email at zhiqing.hong AT rutgers DOT edu.
 
 **Recent News**
-* Jan.2024: Serve as a Reviewer for WWW 2024.
+* Jan.2024: Serve as a Reviewer for KDD 2024, WWW 2024.
+* Dec.2023: Receive ICDM Travel Grant.
 * Dec.2023: Serve as a Reviewer for IMWUT/Ubicomp'24.
-* Nov.2023: Serve as a Reviewer for AISTATS 2024.
-* Nov.2023: Serve as a PC member for LREC-COLING 2024. 
-* Nov.2023: Serve as a Reviewer for DMLR (first round of submission).
+* Nov.2023: Serve as a Reviewer for DMLR (first round of submission) and AISTATS 2024, PC member for LREC-COLING 2024. 
 * Oct.2023: Serve as a PC member for AAAI 2024.
-* Sep.2023: Serve as a reviewer for TOSN.
-* Sep.2023: Serve as a PC member for ICWSM 2024 and SDM 2024.
+* Sep.2023: Serve as a reviewer for TOSN, PC member for ICWSM 2024 and SDM 2024.
 * Aug.2023: Serve as a PC member for WSDM 2024.
 * Aug.2023: Two papers accepted by CIKM'23.
 * Aug.2023: Serve as Reviewer for EMNLP 2023.
