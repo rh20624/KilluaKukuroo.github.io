@@ -5,6 +5,10 @@ classes: wide
 permalink: /publications/
 author_profile: true
 ---
+## Preprints
+
+<span style="color:Blue;font-weight:bold">[Arxiv'24]</span> *Where have you been? A Study of Privacy Risk for Point-of-Interest Recommendation* <br>
+Kunlin Cai, Jinghuai Zhang, Will Shand, **Zhiqing Hong**, Guang Wang, Desheng Zhang, Jianfeng Chi, and Yuan Tian<br>
 
 ## Conference Publication
 
