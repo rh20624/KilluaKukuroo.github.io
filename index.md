@@ -8,7 +8,7 @@ author_profile: true
 **Biography**
 
 I am currently a fourth-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I also work closely with Prof. [Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm). 
-My research interests are broadly in the areas of **Human-Centered Cyber-Physical Systems**, **Spatio-Temporal Data Mining**, and **Sensor-based Human Activity Recognition**. Recently, I have been especially interested in **Aligning LLM for Multi-modal Sensor Data**. Feel free to drop me an email at zhiqing.hong AT rutgers DOT edu.
+My research interests are broadly in the areas of **Human-Centered Cyber-Physical Systems**, **Spatio-Temporal Data Mining**, and **Sensor-based Human Activity Recognition**. Feel free to drop me an email at zhiqing.hong AT rutgers DOT edu.
 
 **Recent News**
 * Feb.2024: Serve as a PC member for MobiCom 2024 Artifacts Evaluation.
