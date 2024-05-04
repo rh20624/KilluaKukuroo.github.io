@@ -11,6 +11,7 @@ I am currently a fourth-year Ph.D. student at the Computer Science Department, R
 My research interests are broadly in the areas of **Human-Centered Cyber-Physical Systems**, **Spatio-Temporal Data Mining**, and **Sensor-based Human Activity Recognition**. Feel free to drop me an email at zhiqing.hong AT rutgers DOT edu.
 
 **Recent News**
+* Apr.2024: Two papers accepted by IMWUT/Ubicomp'24.
 * Feb.2024: Serve as a PC member for MobiCom 2024 Artifacts Evaluation.
 * Jan.2024: Serve as a Reviewer for KDD 2024, WWW 2024.
 * Dec.2023: Receive ICDM Travel Grant.
