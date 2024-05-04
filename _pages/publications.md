@@ -12,6 +12,12 @@ Kunlin Cai, Jinghuai Zhang, Will Shand, **Zhiqing Hong**, Guang Wang, Desheng Zh
 
 ## Conference Publication
 
+<span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining* <br>
+**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
+
+<span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior* <br>
+**Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<br>
+
 <span style="color:Forestgreen;font-weight:bold">[CIKM'23]</span> *Urban-scale POI Updating with Crowd Intelligence* <br>
 **Zhiqing Hong**, Haotian Wang, Wenjun Lyu, Hai Wang, Yunhuai Liu, Guang Wang, Tian He, and Desheng Zhang<br>
 
