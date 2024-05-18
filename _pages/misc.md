@@ -8,7 +8,7 @@ author_profile: true
 
 ## Conference Reviewer, PC, or TPC
 * Mobicom 2024 Artifacts PC member, IMWUT (Ubicomp 2024), KDD 2024, AISTATS 2024, WWW 2024, ICWSM 2024 PC member, LERC-COLING 2024 PC member, AAAI 2024 PC member, SDM 2024 PC member
-* EMNLP 2023, ICWSM 2023 PC member, WSDM 2023 PC member, KDD 2023, KDD 2023 workshop, AAAI workshop 2023
+* EMNLP 2023, ICWSM 2023 PC member, WSDM 2023 PC member, KDD 2023
 * SmartCity 2022, TPC
 
 ## Journal Reviewer
