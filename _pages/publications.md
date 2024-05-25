@@ -18,6 +18,15 @@ Kunlin Cai, Jinghuai Zhang, Will Shand, **Zhiqing Hong**, Guang Wang, Desheng Zh
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior* <br>
 **Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<br>
 
+<span style="color:Forestgreen;font-weight:bold">[KDD'24]</span> *Paths2Pair: Meta-path Based Link Prediction in Billion-Scale Commercial Heterogeneous Graphs* <br>
+Jinquan Hang, **Zhiqing Hong**, Xinyue Feng, Guang Wang, Guang Yang, Feng Li, Xining Song, and Desheng Zhang<br>
+
+<span style="color:Forestgreen;font-weight:bold">[KDD'24]</span> *Where have you been? A Study of Privacy Risk for Point-of-Interest Recommendation* <br>
+Kunlin Cai, Jinghuai Zhang, **Zhiqing Hong**, Will Shand, Guang Wang, Desheng Zhang, Jianfeng Chi, and Yuan Tian<br>
+
+<span style="color:Forestgreen;font-weight:bold">[KDD'24]</span> *MulSTE: A Multi-view Spatio-temporal Learning Framework with Heterogeneous Event Fusion for Demand-supply Prediction* <br>
+Li Lin, Zhiqiang Lu, Shuai Wang, Yunhuai Liu, **Zhiqing Hong**, Haotian Wang, and Shuai Wang<br>
+
 <span style="color:Forestgreen;font-weight:bold">[CIKM'23]</span> *Urban-scale POI Updating with Crowd Intelligence* <br>
 **Zhiqing Hong**, Haotian Wang, Wenjun Lyu, Hai Wang, Yunhuai Liu, Guang Wang, Tian He, and Desheng Zhang<br>
 
