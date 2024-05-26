@@ -6,8 +6,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 ## Conference Publication
+
+- 4\*Ubicomp, 3\*KDD, 3\*CIKM, 2\*SIGSPATIAL, 1\*ICDE
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining* <br>
 **Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
