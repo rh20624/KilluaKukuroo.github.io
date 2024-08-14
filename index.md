@@ -7,11 +7,13 @@ author_profile: true
 ***
 **Biography**
 
-I am currently a fourth-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I also work closely with Prof. [Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm). 
+I am currently a fifth-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I also work closely with Prof. [Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm). 
 My research interests broadly lie in **Human-Centered Cyber-Physical Systems**, **Sensor-based Human Activity Recognition**, and **Spatio-Temporal Data Mining**. Feel free to reach out at zhiqing.hong AT rutgers DOT edu.
 
 **Recent News**
 * Aug. 2024: Serve as reviewer for KDD 2025 and PC member for AAAI 2025.
+* July. 2024: Two co-authored papers accepted by CIKM 2024.
+* June. 2024: One co-authored paper accepted by VLDB 2024.
 * May. 2024: One paper accepted by TKDE. 
 * May.2024: Serve as Reviewer for NIPS 2024.
 * May.2024: Serve as a PC member for ICWSM 2025.
