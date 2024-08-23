@@ -16,14 +16,14 @@ My research interests broadly lie in **Human-Centered Cyber-Physical Systems**, 
 
 **Recent News**
 
-<div style="max-height: 150px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
-* Aug. 2024: Serve as reviewer for KDD 2025 and PC member for AAAI 2025.
-* July. 2024: Two co-authored papers accepted by CIKM 2024.
-* June. 2024: One co-authored paper accepted by VLDB 2024.
-* May. 2024: One paper accepted by TKDE.
-* May. 2024: Serve as Reviewer for NIPS 2024.
-* May. 2024: Serve as a PC member for ICWSM 2025.
-* May. 2024: Three co-authored papers accepted by KDD 2024.
+<div style="max-height: 150px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #f9f9f9;">
+    <div style="margin-bottom: 10px;">Aug. 2024: Serve as reviewer for KDD 2025 and PC member for AAAI 2025.</div>
+    <div style="margin-bottom: 10px;">July. 2024: Two co-authored papers accepted by CIKM 2024.</div>
+    <div style="margin-bottom: 10px;">June. 2024: One co-authored paper accepted by VLDB 2024.</div>
+    <div style="margin-bottom: 10px;">May. 2024: One paper accepted by TKDE.</div>
+    <div style="margin-bottom: 10px;">May. 2024: Serve as Reviewer for NIPS 2024.</div>
+    <div style="margin-bottom: 10px;">May. 2024: Serve as a PC member for ICWSM 2025.</div>
+    <div style="margin-bottom: 10px;">May. 2024: Three co-authored papers accepted by KDD 2024.</div>
 </div>
 
 
