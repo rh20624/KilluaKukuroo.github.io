@@ -86,13 +86,17 @@ My research interests broadly lie in **Human-Centered Cyber-Physical Systems**, 
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">Apr. 2022:</span> Two papers accepted by Ubicomp'22.
     </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">Mar. 2021:</span> Visit JD Logistics, AI and Data Science Group, hosted by Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
+    </div>
 </div>
 
 
+**Selected Publications**
 
 
 
-
+<!--
 **Recent News**
 * Aug. 2024: Serve as reviewer for KDD 2025 and PC member for AAAI 2025.
 * July. 2024: Two co-authored papers accepted by CIKM 2024.
@@ -118,7 +122,7 @@ My research interests broadly lie in **Human-Centered Cyber-Physical Systems**, 
 * Aug.2022: One paper accepted by CIKM'22.
 * Apr.2022: Two papers accepted by Ubicomp'22.
 * Mar.2021: Visit JD Logistics, AI and Data Science Group, hosted by Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
-
+-->
 
 
 
