@@ -26,6 +26,33 @@ My research interests broadly lie in **Human-Centered Cyber-Physical Systems**, 
     <div style="margin-bottom: 10px;">May. 2024: Three co-authored papers accepted by KDD 2024.</div>
 </div>
 
+# Recent News
+
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #f9f9f9; line-height: 1.6;">
+    <div style="margin-bottom: 10px;">
+        <span style="color: #007BFF; font-weight: bold;">Aug. 2024:</span> Serve as reviewer for KDD 2025 and PC member for AAAI 2025.
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #007BFF; font-weight: bold;">July. 2024:</span> Two co-authored papers accepted by CIKM 2024.
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #007BFF; font-weight: bold;">June. 2024:</span> One co-authored paper accepted by VLDB 2024.
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #007BFF; font-weight: bold;">May. 2024:</span> One paper accepted by TKDE.
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #007BFF; font-weight: bold;">May. 2024:</span> Serve as Reviewer for NIPS 2024.
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #007BFF; font-weight: bold;">May. 2024:</span> Serve as a PC member for ICWSM 2025.
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #007BFF; font-weight: bold;">May. 2024:</span> Three co-authored papers accepted by KDD 2024.
+    </div>
+</div>
+
+
 
 
 **Recent News**
