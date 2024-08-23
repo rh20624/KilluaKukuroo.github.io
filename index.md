@@ -16,7 +16,7 @@ My research interests broadly lie in **Human-Centered Cyber-Physical Systems**, 
 
 **Recent News**
 
-<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #f9f9f9; line-height: 1.6; font-size: 14px;">
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 15px;">
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">Aug. 2024:</span> Serve as reviewer for KDD 2025 and PC member for AAAI 2025.
     </div>
@@ -87,14 +87,21 @@ My research interests broadly lie in **Human-Centered Cyber-Physical Systems**, 
         <span style="color: #87CEEB; font-weight: bold;">Apr. 2022:</span> Two papers accepted by Ubicomp'22.
     </div>
     <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">Mar. 2021:</span> Visit JD Logistics, AI and Data Science Group, hosted by Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
+        <span style="color: #87CEEB; font-weight: bold;">Mar. 2021:</span> Visit JD Logistics, AI and Data Science Group, hosted by Prof. Tian He.
     </div>
 </div>
 
 
 **Selected Publications**
 
+<span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining* <br>
+**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
 
+<span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior* <br>
+**Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<be>
+
+<span style="color:Forestgreen;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* <br>
+**Zhiqing Hong**, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
 
 <!--
 **Recent News**
