@@ -8,11 +8,12 @@ author_profile: true
 **Biography**
 
 I am a final-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I also work closely with Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/) and Prof. [Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm). 
-Feel free to reach out: zhiqing.hong@rutgers.edu.
+
 
 My research interests broadly lie in **Human-centric Cyber-Physical Systems**, **Data Science**, **Generative AI**, **IoT**, **Human Behavior Sensing**, and **Spatio-Temporal Data Mining**. My work involves various techniques, e.g., large language models (LLMs), large sensor models (LSM), efficient machine learning, unsupervised machine learning, cross-domain data fusion, and large-scale system optimization & deployment. I have been investigating platforms across more than 300 cities on 2 continents with 2 billion E-commerce orders, 300 thousand vehicles, 500 thousand mobile devices, and 500 million residents involved. 
 
 My technical contributions have led to more than 18 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, and CIKM. I have served as TPC, PC member of reviewer for top conferences and journals in *mobile sensing* (Mobicom Artifact Evaluation, Ubicomp, TOSN) and *data science and AI* (NIPS, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM). 
+Feel free to reach out: zhiqing.hong@rutgers.edu.
 
 
 
