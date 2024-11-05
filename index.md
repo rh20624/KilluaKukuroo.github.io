@@ -22,6 +22,12 @@ Feel free to reach out: zhiqing.hong@rutgers.edu.
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 15px;">
     <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">Oct. 2024:</span> One co-authored paper accepted by EMNLP 2024.
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">Sep. 2024:</span> One co-authored paper accepted by SIGSPATIAL 2024.
+    </div>
+    <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">Aug. 2024:</span> Serve as reviewer for KDD 2025 and PC member for AAAI 2025.
     </div>
     <div style="margin-bottom: 10px;">
