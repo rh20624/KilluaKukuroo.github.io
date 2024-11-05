@@ -64,7 +64,10 @@ author:
       url: "mailto:zhiqing.hong@rutgers.edu "
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.cn/incareer/in/zhiqing-hong-781a62109?trk=public_profile_browsemap"
+      url: "https://www.linkedin.com/in/zhiqing-hong-781a62109/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=8pMYf88AAAAJ&hl=en"
 footer:
   links:
     - label: "Email"
@@ -72,7 +75,10 @@ footer:
       url: "mailto:zhiqing.hong@rutgers.edu "
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.cn/incareer/in/zhiqing-hong-781a62109?trk=public_profile_browsemap"
+      url: "https://www.linkedin.com/in/zhiqing-hong-781a62109/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=8pMYf88AAAAJ&hl=en"
 
 defaults:
   # _posts
