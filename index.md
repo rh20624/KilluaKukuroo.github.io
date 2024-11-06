@@ -10,17 +10,19 @@ author_profile: true
 I am a final-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I also work closely with Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/) and Prof. [Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm). 
 
 
-My research interests broadly lie in **Human-centric Cyber-Physical Systems**, **Data Science**, **Generative AI**, **IoT**, **Human Behavior Sensing**, and **Spatio-Temporal Data Mining**. My work involves various techniques, e.g., large language models (LLMs), large sensor models (LSM), efficient machine learning, unsupervised machine learning, cross-domain data fusion, and large-scale system optimization & deployment. I have been investigating platforms across more than 300 cities on 2 continents with 2 billion E-commerce orders, 300 thousand vehicles, 500 thousand mobile devices, and 500 million residents involved. 
+My research interests broadly lie in **Human-centric Cyber-Physical Systems**, **Data Science**, **Generative AI**, **IoT**, and **Mobile and Ubiquitous Computing** for smart cities. My work involves various techniques, such as large language models (LLMs), large sensor models (LSM), efficient machine learning, unsupervised machine learning, cross-domain data fusion, and large-scale system optimization & deployment. I have been investigating platforms across more than 300 cities on 2 continents with 2 billion E-commerce orders, 300 thousand vehicles, 500 thousand mobile devices, and 500 million residents involved. 
 
 My technical contributions have led to more than 18 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, and CIKM. I have served as TPC, PC member of reviewer for top conferences and journals in *mobile sensing* (Mobicom Artifact Evaluation, Ubicomp, TOSN) and *data science and AI* (NIPS, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM). 
-Feel free to reach out: zhiqing.hong@rutgers.edu.
 
-
+**I am currently on the job market and open to exploring various opportunities. Please feel free to contact me (zhiqing.hong@rutgers.edu) if you are interested in discussing potential collaborations or positions!**
 
 
 **Recent News**
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 15px;">
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">Nov. 2024:</span> Glad to be recognized as Top Reviewer for NIPS 2024.
+    </div>
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">Oct. 2024:</span> One co-authored paper accepted by EMNLP 2024.
     </div>
