@@ -19,6 +19,10 @@ author_profile: true
 <span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *AddrLLM: Address Rewriting via Large Language Model on Nationwide Logistics Data* <br>
 Qinchen Yang, **Zhiqing Hong**, Dongjiang Cao, Haotian Wang, Zejun Xie, Yunhuai Liu, Tian He, Yu Yang, and Desheng Zhang<br>
 
+<span style="color:Forestgreen;font-weight:bold">[EMNLP'24]</span> *Variational Language Concepts for Interpreting
+Foundation Language Models* <br>
+Hengyi Wang, Shiwei Tan, **Zhiqing Hong**, Desheng Zhang, and Hao Wang<br>
+
 <span style="color:Forestgreen;font-weight:bold">[KDD'24]</span> *Paths2Pair: Meta-path Based Link Prediction in Billion-Scale Commercial Heterogeneous Graphs* <br>
 Jinquan Hang, **Zhiqing Hong**, Xinyue Feng, Guang Wang, Guang Yang, Feng Li, Xining Song, and Desheng Zhang<br>
 
@@ -67,7 +71,10 @@ Baoshen Guo, Weijian Zuo, Shuai Wang, Wenjun Lyu, **Zhiqing Hong**, Yi Ding, Tia
 <span style="color:Forestgreen;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* <br>
 **Zhiqing Hong**, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
 
-## Posters & Demos
+## Short Papers & Posters & Demos
+<span style="color:Firebrick;font-weight:bold">[SIGSPATIAL'24]</span> *Improving Network Robustness via Cellular Infrastructure Sharing: An Empirical Study of Infrastructure Failure with All Cellular Operators in a City* <br>
+Zhihan Fang, Guang Yang, Wenjun Lyu, **Zhiqing Hong**, Shuxin Zhong, Weijian Zuo, Yu Yang, Guang Wang, and Desheng Zhang<br>
+
 <span style="color:Firebrick;font-weight:bold">[Sensys'20]</span> *Generating location data with generative adversarial networks for sensing applications: PhD forum abstract* <br>
 **Zhiqing Hong**<br>
 
