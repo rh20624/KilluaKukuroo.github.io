@@ -8,13 +8,16 @@ author_profile: true
 
 ## Conference Publication
 
-- 4\*Ubicomp, 3\*KDD, 5\*CIKM, 2\*SIGSPATIAL, 1\*ICDE, 1\*VLDB
+- 4\*Ubicomp, 4\*KDD, 5\*CIKM, 2\*SIGSPATIAL, 1\*ICDE, 1\*VLDB
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining* <br>
 **Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior* <br>
-**Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<br>
+**Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<be>
+
+<span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *AddrLLM: Address Rewriting via Large Language Model on Nationwide Logistics Data* <br>
+Qinchen Yang, **Zhiqing Hong**, Dongjiang Cao, Haotian Wang, Zejun Xie, Yunhuai Liu, Tian He, Yu Yang, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'24]</span> *Paths2Pair: Meta-path Based Link Prediction in Billion-Scale Commercial Heterogeneous Graphs* <br>
 Jinquan Hang, **Zhiqing Hong**, Xinyue Feng, Guang Wang, Guang Yang, Feng Li, Xining Song, and Desheng Zhang<br>
