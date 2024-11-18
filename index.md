@@ -24,7 +24,10 @@ My technical contributions have led to more than 18 papers in premium CS venues,
         <span style="color: #87CEEB; font-weight: bold;">Nov. 2024:</span> Glad to be recognized as Top Reviewer for NIPS 2024.
     </div>
     <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">May. 2024:</span> One second-authored paper about LLMs for Spatial Language accepted by KDD 2025.
+        <span style="color: #87CEEB; font-weight: bold;">Nov. 2024:</span> One second-authored paper about LLMs for Spatial Language accepted by KDD 2025.
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">Oct. 2024:</span> Invited talk about Generalizable Human Behavior Sensing at Ubicomp/FairComp 2024, Melbourn, Australia.
     </div>
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">Oct. 2024:</span> One co-authored paper about Interpreting
