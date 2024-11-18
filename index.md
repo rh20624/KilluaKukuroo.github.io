@@ -24,7 +24,11 @@ My technical contributions have led to more than 18 papers in premium CS venues,
         <span style="color: #87CEEB; font-weight: bold;">Nov. 2024:</span> Glad to be recognized as Top Reviewer for NIPS 2024.
     </div>
     <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">Oct. 2024:</span> One co-authored paper accepted by EMNLP 2024.
+        <span style="color: #87CEEB; font-weight: bold;">May. 2024:</span> One second-authored paper about LLMs for Spatial Language accepted by KDD 2025.
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">Oct. 2024:</span> One co-authored paper about Interpreting
+Foundation Language Models accepted by EMNLP 2024.
     </div>
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">Sep. 2024:</span> One co-authored paper accepted by SIGSPATIAL 2024.
@@ -36,7 +40,7 @@ My technical contributions have led to more than 18 papers in premium CS venues,
         <span style="color: #87CEEB; font-weight: bold;">July. 2024:</span> Two co-authored papers accepted by CIKM 2024.
     </div>
     <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">June. 2024:</span> One co-authored paper accepted by VLDB 2024.
+        <span style="color: #87CEEB; font-weight: bold;">June. 2024:</span> One second-authored paper accepted by VLDB 2024.
     </div>
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">May. 2024:</span> One paper accepted by TKDE.
