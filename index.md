@@ -12,7 +12,7 @@ I am a final-year Ph.D. student at the Computer Science Department, Rutgers Univ
 
 My research interests broadly lie in **Human-centric Cyber-Physical Systems**, **Data Science**, **Generative AI**, **IoT**, and **Mobile and Ubiquitous Computing** for smart cities. My work involves various techniques, such as large language models (LLMs), large sensor models (LSM), efficient machine learning, unsupervised machine learning, cross-domain data fusion, and large-scale system optimization & deployment. I have been investigating platforms across more than 300 cities on 2 continents with 2 billion E-commerce orders, 300 thousand vehicles, 500 thousand mobile devices, and 500 million residents involved. 
 
-My technical contributions have led to more than 19 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, and CIKM. I have served as TPC, PC member of reviewer for top conferences and journals in *mobile sensing* (Mobicom Artifact Evaluation, Ubicomp, TOSN) and *data science and AI* (NIPS, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM). 
+My technical contributions have led to more than 19 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, and CIKM. I have served as TPC, PC member of reviewer for top conferences and journals in *mobile sensing* (Mobicom Artifact Evaluation, Ubicomp, TOSN) and *data science and AI* (NIPS, ICLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM). 
 
 **I am currently on the job market and open to exploring various opportunities. Please feel free to contact me (zhiqing.hong@rutgers.edu) if you are interested in discussing potential collaborations or positions!**
 
@@ -117,13 +117,16 @@ Foundation Language Models accepted by EMNLP 2024.
 **Selected Publications**
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining* <br>
-**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
+**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<be>
+- **Sensor foundation model** for generalizable human behavior sensing (**Top 2 most read papers in Ubicomp, 2024 May Volumn**)
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior* <br>
 **Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<be>
+- **Generative AI** for urban map generation (**Algorithm adopted by leading companies**) 
 
 <span style="color:Forestgreen;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* <br>
-**Zhiqing Hong**, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
+**Zhiqing Hong**, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<be>
+- Nationwide location sensing for location-based services (**30 million+ locations across 366 cities**)
 
 <!--
 **Recent News**
