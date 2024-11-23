@@ -117,8 +117,8 @@ Foundation Language Models accepted by EMNLP 2024.
 **Selected Publications**
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining* [PDF](https://dl.acm.org/doi/10.1145/3659597) <br>
-**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<be>
-- **Sensor foundation model** for generalizable human behavior sensing (**Top 2 most read papers in Ubicomp, 2024 May Volumn**)
+**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
+Highlight: **Sensor foundation model** for generalizable human behavior sensing (**Top 2 most read papers in Ubicomp, 2024 May Volumn**)
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior* [PDF](https://dl.acm.org/doi/10.1145/3659596) <br>
 **Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<be>
