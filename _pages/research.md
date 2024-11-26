@@ -27,6 +27,9 @@ ComplexPath (Efficient and Effective Node Ranking on Billion-scale Heterogeneous
 - <a href="https://github.com/JQHang/Complex-path">Code for our ComplexPath Paper</a>
 
 ## Dataset Release
+
+<a href="https://people.cs.rutgers.edu/~dz220/Data.html">Multi-modal data for smart cities (e.g., electrical vehicle, CDR, GPS of truck and taxi)</a>
+
 <a href="https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359">Bluetooth Beacons, human reports and corresponding trajectories from delivery couriers</a>
 
 <a href="https://tianchi.aliyun.com/dataset/106807">On-demand food delivery order distribution data in Shenzhen City</a>
