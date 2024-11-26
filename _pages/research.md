@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Code & Data"
 permalink: /research/
 author_profile: true
 ---
@@ -9,6 +9,10 @@ author_profile: true
 CrossHAR (Cross-dataset Human Behavior Sensing)
 - Paper: CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining
 - <a href="https://github.com/kingdomrush2/CrossHAR">Code for our CrossHAR Paper</a>
+
+Explainability of Foundation Models
+- [EMNLP’24] Variational Language Concepts for Interpreting Foundation Language Models
+- <a href="https://github.com/Wang-ML-Lab/interpretable-foundation-models">Code for our Foundation Model Paper</a>
 
 Privacy of Mobile Data
 - Paper: [KDD'24] Where have you been? A Study of Privacy Risk for Point-of-Interest Recommendation
@@ -21,8 +25,6 @@ Paths2Pair (Efficient Prediction on Billion-scale Heterogeneous Graph)
 ComplexPath (Efficient and Effective Node Ranking on Billion-scale Heterogeneous Graph)
 - Paper: [VLDB'24] Complex-Path: Effective and Efficient Node Ranking with Paths in Billion-Scale Heterogeneous Graphs
 - <a href="https://github.com/JQHang/Complex-path">Code for our ComplexPath Paper</a>
-
-Complex-Path: Effective and Efficient Node Ranking with Paths in Billion-Scale Heterogeneous Graphs
 
 ## Dataset Release
 <a href="https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359">Bluetooth Beacons, human reports and corresponding trajectories from delivery couriers</a>
