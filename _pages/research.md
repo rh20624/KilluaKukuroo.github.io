@@ -7,7 +7,7 @@ author_profile: true
 ## Code
 
 CrossHAR (Cross-dataset Human Behavior Sensing)
-- Paper: CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining
+- Paper: [Ubicomp'24] CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining
 - <a href="https://github.com/kingdomrush2/CrossHAR">Code for our CrossHAR Paper</a>
 
 Explainability of Foundation Models
