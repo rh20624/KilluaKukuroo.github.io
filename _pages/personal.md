@@ -5,11 +5,6 @@ layout: single
 classes: wide
 ---
 
-## Dataset Release
-<a href="https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359">Bluetooth Beacons, human reports and corresponding trajectories from delivery couriers</a>
-
-<a href="https://tianchi.aliyun.com/dataset/106807">On-demand food delivery order distribution data in Shenzhen City</a>
-
 
 ## Useful Links	
 <a href="https://ccfddl.github.io/">CCF conference deadlines</a>
