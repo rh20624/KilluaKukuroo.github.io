@@ -7,36 +7,28 @@ author_profile: true
 ***
 **Biography**
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-  <p>
     I am a final-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. 
     <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a>. 
     I also work closely with Prof. 
     <a href="https://www-users.cs.umn.edu/~tianhe/" target="_blank" rel="noopener noreferrer">Tian He</a> 
     and Prof. 
     <a href="http://www.yunhuai.net/Yunhuai.htm" target="_blank" rel="noopener noreferrer">Yunhuai Liu</a>.
-  </p>
 </div>
-
-<div style="height: 8px;"></div> <!-- 空行 -->
-
+<div style="height: 5px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-  <p>
     My research interests broadly lie in <strong>Human-centric Cyber-Physical Systems</strong>, <strong>Data Science</strong>, 
     <strong>Generative AI</strong>, <strong>IoT</strong>, and <strong>Mobile and Ubiquitous Computing</strong> for smart cities. 
     My work involves various techniques, such as large language models (LLMs), large sensor models (LSM), efficient machine learning, 
     unsupervised machine learning, cross-domain data fusion, and large-scale system optimization & deployment. I have been investigating 
     platforms across more than 300 cities on 2 continents with 2 billion E-commerce orders, 300 thousand vehicles, 500 thousand mobile 
     devices, and 500 million residents involved.
-  </p>
 </div>
-
-<div style="height: 8px;"></div> <!-- 空行 -->
-
+<div style="height: 5px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
   My technical contributions have led to more than 19 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, and CIKM. I have served as TPC, PC member or reviewer for top conferences and journals in <em>mobile sensing</em> (Mobicom Artifact Evaluation, Ubicomp, TOSN) and <em>data science and AI</em> (NIPS, ICLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM).
 </div>
 
-<div style="height: 8px;"></div> <!-- 空行 -->
+<div style="height: 5px;"></div> <!-- 空行 -->
 
 **I am currently on the job market and open to exploring various opportunities. Please feel free to contact me (zhiqing.hong@rutgers.edu) if you are interested in discussing potential collaborations or positions!**
 
