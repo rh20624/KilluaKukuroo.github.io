@@ -12,9 +12,8 @@ I am a final-year Ph.D. student at the Computer Science Department, Rutgers Univ
 
 My research interests broadly lie in **Human-centric Cyber-Physical Systems**, **Data Science**, **Generative AI**, **IoT**, and **Mobile and Ubiquitous Computing** for smart cities. My work involves various techniques, such as large language models (LLMs), large sensor models (LSM), efficient machine learning, unsupervised machine learning, cross-domain data fusion, and large-scale system optimization & deployment. I have been investigating platforms across more than 300 cities on 2 continents with 2 billion E-commerce orders, 300 thousand vehicles, 500 thousand mobile devices, and 500 million residents involved. 
 
-
-<div style="text-align: justify;">
-  My technical contributions have led to more than 19 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, and CIKM. I have served as TPC, PC member of reviewer for top conferences and journals in *mobile sensing* (Mobicom Artifact Evaluation, Ubicomp, TOSN) and *data science and AI* (NIPS, ICLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM). 
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 14px; text-align: justify;">
+  My technical contributions have led to more than 19 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, and CIKM. I have served as TPC, PC member or reviewer for top conferences and journals in <em>mobile sensing</em> (Mobicom Artifact Evaluation, Ubicomp, TOSN) and <em>data science and AI</em> (NIPS, ICLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM).
 </div>
 
 **I am currently on the job market and open to exploring various opportunities. Please feel free to contact me (zhiqing.hong@rutgers.edu) if you are interested in discussing potential collaborations or positions!**
