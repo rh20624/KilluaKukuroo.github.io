@@ -36,6 +36,8 @@ author_profile: true
   My technical contributions have led to more than 19 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, and CIKM. I have served as TPC, PC member or reviewer for top conferences and journals in <em>mobile sensing</em> (Mobicom Artifact Evaluation, Ubicomp, TOSN) and <em>data science and AI</em> (NIPS, ICLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM).
 </div>
 
+<div style="height: 8px;"></div> <!-- 空行 -->
+
 **I am currently on the job market and open to exploring various opportunities. Please feel free to contact me (zhiqing.hong@rutgers.edu) if you are interested in discussing potential collaborations or positions!**
 
 
