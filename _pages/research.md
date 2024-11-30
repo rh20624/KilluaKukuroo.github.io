@@ -14,7 +14,7 @@ With the fast development of urban spaces, urban elements are changing rapidly, 
 ### Generative AI
 My work focuses on Generative AI for urban infrastructure data generation. Motivated by the unique properties of spatio-temporal and sensory data, I design a DualSTGAN to generate urban road maps from multi-modal sensor data. The related results have been published in Ubicomp'24. 
 
-<img src="/assets/images/GenAI.jpg" alt="恐龙" />
+<img src="/assets/images/GenAI.jpg" alt="恐龙" width="400" />
 
 ### Foundation Model for Human Activity Sensing
 The ubiquitous adoption of mobile and wearable devices has brought a new opportunity for low-cost human activity sensing. However, two long-standing challenges, *domain shift* and *limited training data*, have impacted the large-scale deployment of activity sensing models. My research aims to develop a foundation model for generalizable activity sensing by designing unique sensor augmentation approaches and sensor pretraining paradigms. The related results have been published in Ubicomp'24.  
