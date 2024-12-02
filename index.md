@@ -25,12 +25,12 @@ author_profile: true
 </div>
 <div style="height: 3px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-  My technical contributions have led to more than 19 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, and CIKM. I have served as TPC, PC member or reviewer for top conferences and journals in <em>mobile sensing</em> (Mobicom Artifact Evaluation, Ubicomp, TOSN) and <em>data science and AI</em> (NIPS, ICLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM).
+  My technical contributions have led to more than 20 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, and CIKM. I have served as TPC, PC member or reviewer for top conferences and journals in <em>Mobile Computing</em> (Mobicom Artifact Evaluation, Ubicomp, TOSN) and <em>Data Science and AI</em> (NIPS, ICLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM).
 </div>
 
 <div style="height: 3px;"></div> <!-- 空行 -->
 
-**I am currently on the job market and open to exploring various opportunities. Please feel free to contact me (zhiqing.hong@rutgers.edu) if you are interested in discussing potential collaborations or positions!**
+<span style="color: blue; font-weight: bold;">I am currently on the job market and open to exploring various opportunities. Please feel free to contact me (zhiqing.hong@rutgers.edu) if you are interested in discussing potential collaborations or positions!</span>
 
 
 **Recent News**
@@ -134,15 +134,15 @@ Foundation Language Models accepted by EMNLP 2024.
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining* [PDF](https://dl.acm.org/doi/10.1145/3659597) <br>
 **Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
-Highlight: **Sensor foundation model** for generalizable human behavior sensing (**Top 2 most read papers in Ubicomp, 2024 May Volumn**)
+_Highlight_: **Sensor foundation model** for generalizable human behavior sensing (**Top 2 most read papers in Ubicomp, 2024 May Volumn**)
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior* [PDF](https://dl.acm.org/doi/10.1145/3659596) <br>
 **Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<br>
-Highlight: **Generative AI** for urban map generation (**Algorithm adopted by leading companies**)
+_Highlight_: **Generative AI** for urban map generation (**Algorithm adopted by leading companies**)
 
 <span style="color:Forestgreen;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* [PDF](https://ieeexplore.ieee.org/document/10552380) <br>
 **Zhiqing Hong**, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
-Highlight: Nationwide location sensing for location-based services (**30 million+ locations across 366 cities**)
+_Highlight_: Nationwide location sensing for location-based services (**30 million+ locations across 366 cities**)
 
 <!--
 **Recent News**
