@@ -24,6 +24,8 @@ author_profile: true
 * TIST 2020
 
 ## Awards
+* NIPS Top Reviewer Award, 2024
+* Distinguish Paper Award for WePos, IoT Committee of Chinese Institute of Electronics, 2023
 * ICDM Student Travel Grant, 2023
 * KDD Student Registration Award, 2021
 * KDD Student Registration Award, 2020
