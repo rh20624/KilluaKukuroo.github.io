@@ -13,15 +13,9 @@ author_profile: true
 
 ## Journal Reviewer
 * IMWUT
-* DMLR
-* TOSN
-
-## Sub Reviewer
-* Sensys (2023,2022,2021,2020)
-* ICCPS (2024,2023)
-* ICML 2022
-* ICDCS 2024
-* TIST 2020
+* IEEE Transactions on Computational Social Systems (TCSS)
+* DMLR Data-centric Machine Learning Research (DMLR)
+* ACM Transactions on Sensor Networks (TOSN)
 
 ## Awards
 * NIPS Top Reviewer Award, 2024
