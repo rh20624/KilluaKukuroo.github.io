@@ -134,7 +134,7 @@ Foundation Language Models accepted by EMNLP 2024.
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining* [PDF](https://dl.acm.org/doi/10.1145/3659597) <br>
 **Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
-<u>Highlight</u>: **Sensor foundation model** for generalizable human behavior sensing (**Top 2 most read papers in Ubicomp, 2024 May Volumn**)
+<u>Highlight</u>: **Sensor Foundation Model** for generalizable human behavior sensing (**Top 2 most read papers in Ubicomp, 2024 May Volumn**)
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior* [PDF](https://dl.acm.org/doi/10.1145/3659596) <br>
 **Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<br>
@@ -142,7 +142,7 @@ Foundation Language Models accepted by EMNLP 2024.
 
 <span style="color:Forestgreen;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* [PDF](https://ieeexplore.ieee.org/document/10552380) <br>
 **Zhiqing Hong**, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
-<u>Highlight</u>: Nationwide location sensing for location-based services (**30 million+ locations across 366 cities**)
+<u>Highlight</u>: **Nationwide Deployed Mobile Sensing System** for location sensing (**30 million+ locations across 366 cities**)
 
 <!--
 **Recent News**
