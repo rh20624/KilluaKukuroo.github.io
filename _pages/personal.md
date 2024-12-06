@@ -1,6 +1,6 @@
 ---
 title: "Code & Data"
-permalink: /resources/
+permalink: /Code & Data/
 layout: single
 classes: wide
 ---
