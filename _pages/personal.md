@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "Code & Data"
 permalink: /resources/
 layout: single
 classes: wide
