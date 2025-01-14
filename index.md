@@ -40,7 +40,7 @@ author_profile: true
         <span style="color: #87CEEB; font-weight: bold;">Dec. 2024:</span> One co-authored paper about GNSS Mobile Sensing accepted by Percom 2025.
     </div>
     <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">Dec 2024:</span> One second-authored paper about Generative AI for IoT Trajectory Generation accepted by SDM 2025.
+        <span style="color: #87CEEB; font-weight: bold;">Dec. 2024:</span> One second-authored paper about Generative AI for IoT Trajectory Generation accepted by SDM 2025.
     </div>
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">Nov. 2024:</span> Glad to be recognized as Top Reviewer for NIPS 2024.
