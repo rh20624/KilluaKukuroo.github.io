@@ -19,6 +19,9 @@ author_profile: true
 <span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *AddrLLM: Address Rewriting via Large Language Model on Nationwide Logistics Data* <br>
 Qinchen Yang, **Zhiqing Hong**, Dongjiang Cao, Haotian Wang, Zejun Xie, Yunhuai Liu, Tian He, Yu Yang, and Desheng Zhang<br>
 
+<span style="color:Forestgreen;font-weight:bold">[SDM'25]</span> *AutoSTDiff: Autoregressive Spatio-Temporal Denoising Diffusion Model for Asynchronous Trajectory Generation* <br>
+Rongchao Xu, **Zhiqing Hong**, and Guang Wang<br>
+
 <span style="color:Forestgreen;font-weight:bold">[EMNLP'24]</span> *Variational Language Concepts for Interpreting
 Foundation Language Models* <br>
 Hengyi Wang, Shiwei Tan, **Zhiqing Hong**, Desheng Zhang, and Hao Wang<br>
