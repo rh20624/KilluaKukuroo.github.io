@@ -25,7 +25,7 @@ author_profile: true
 </div>
 <div style="height: 3px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-  My technical contributions have led to more than 20 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, and CIKM. I have served as TPC, PC member or reviewer for top conferences and journals in <em>Mobile Computing</em> (Mobicom Artifact Evaluation, Ubicomp, TOSN) and <em>Data Science and AI</em> (NIPS, ICLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM).
+  My technical contributions have led to more than 20 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ICDE, VLDB, EMNLP, TKDE, SIGSPATIAL, CIKM, and SDM. I have served as TPC, PC member or reviewer for top conferences and journals in <em>Mobile Computing</em> (Mobicom Artifact Evaluation, IMWUT/Ubicomp, TOSN) and <em>Data Science and AI</em> (NIPS, ICML, ICLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM).
 </div>
 
 <div style="height: 3px;"></div> <!-- 空行 -->
