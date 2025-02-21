@@ -69,7 +69,10 @@ Xiaoyang Xie, **Zhiqing Hong**, Zhou Qin, Zhihan Fang, Yuan Tian, and Desheng Zh
 Baoshen Guo, Weijian Zuo, Shuai Wang, Wenjun Lyu, **Zhiqing Hong**, Yi Ding, Tian He, and Desheng Zhang<br>
 
 ## Journals 
-- 1\*TKDE
+- 1\*TKDE, 1\*TMC
+
+<span style="color:Forestgreen;font-weight:bold">[TMC'25]</span> *Real-time Abnormal Address Detection for Mobile Devices in Location-based Services* <br>
+**Zhiqing Hong**, Heng Yang, Haotian Wang, Wenjun Lyu, Yu Yang, Guang Wang, Yunhuai Liu, Yang Wang, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* <br>
 **Zhiqing Hong**, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
