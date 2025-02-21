@@ -37,6 +37,9 @@ author_profile: true
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 15px;">
     <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">Feb. 2025:</span> One first-author paper accepted by IEEE TMC. 
+    </div>
+    <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">Jan. 2025:</span> Invited to serve as a reviewer for ICML 2025. 
     </div>
     <div style="margin-bottom: 10px;">
