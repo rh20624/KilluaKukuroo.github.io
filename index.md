@@ -153,7 +153,7 @@ Foundation Language Models accepted by EMNLP 2024.
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior* [PDF](https://dl.acm.org/doi/10.1145/3659596) <br>
 **Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<br>
-<u>Highlight</u>: **Generative AI** for urban map generation (**Algorithm adopted by leading companies**)
+<u>Highlight</u>: **Generative AI** for urban map generation (**Algorithm adopted by industry partners**)
 
 <span style="color:Forestgreen;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* [PDF](https://ieeexplore.ieee.org/document/10552380) <br>
 **Zhiqing Hong**, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
