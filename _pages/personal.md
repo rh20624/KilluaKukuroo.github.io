@@ -62,6 +62,8 @@ ComplexPath (Efficient and Effective Node Ranking on Billion-scale Heterogeneous
 
 <a href="http://pgbovine.net/PhD-memoir.htm">The Ph.D. Grind, Philip Guo</a>
 
+<a href="http://pgbovine.net/PhD-memoir.htm">A Survival Guide to a PhD, Andrej Karpathy</a>
+
 
 
 
