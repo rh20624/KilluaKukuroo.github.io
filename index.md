@@ -17,7 +17,7 @@ author_profile: true
 <div style="height: 3px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
     My research interests broadly lie in <strong>Mobile Sensing</strong>, <strong>Human-centric Cyber-Physical Systems</strong>, <strong>Data Science</strong>, 
-    <strong>Generative AI</strong>, and <strong>Mobile and Ubiquitous Computing</strong> for smart cities. 
+    <strong>Generative AI</strong>, and <strong>Mobile and Ubiquitous Computing</strong> for <strong>smart cities</strong>. 
     My work involves various techniques, such as large language models (LLMs), large sensor models (LSM), efficient machine learning, 
     unsupervised machine learning, cross-domain data fusion, and large-scale system optimization & deployment. I have been investigating 
     platforms across more than 300 cities on 2 continents with 2 billion E-commerce orders, 300 thousand vehicles, 500 thousand mobile 
