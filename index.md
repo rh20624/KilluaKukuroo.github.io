@@ -155,6 +155,7 @@ Foundation Language Models accepted by EMNLP 2024.
 <br>
 
 **Selected Publications**
+
 <span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs for Last-mile Delivery* <br>
 **Zhiqing Hong**, Yiwei Song, Zelong Li, Anlan Yu, Shuxin Zhong, Yi Ding, Tian He, Desheng Zhang<br>
 <u>Highlight</u>: **Efficient Large Language Model** and **Sensor Foundation Model** for generalizable on-device human behavior sensing
