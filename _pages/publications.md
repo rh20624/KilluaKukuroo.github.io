@@ -10,6 +10,9 @@ author_profile: true
 
 - 4\*Ubicomp, 4\*KDD, 5\*CIKM, 2\*SIGSPATIAL, 1\*ICDE, 1\*VLDB
 
+<span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs for Last-mile Delivery* <br>
+**Zhiqing Hong**, Yiwei Song, Zelong Li, Anlan Yu, Shuxin Zhong, Yi Ding, Tian He, Desheng Zhang<be>
+
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining* <br>
 **Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
 
