@@ -40,6 +40,9 @@ author_profile: true
         <span style="color: #87CEEB; font-weight: bold;">May. 2025:</span> One first-author paper about Efficient LLM for Human Activity Sensing accepted by KDD. 
     </div>
     <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">May. 2025:</span> One co-author paper about LLM accepted by KDD. 
+    </div>
+    <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">May. 2025:</span> One second-authored paper about LLM Uncertainty Calibration accepted by ACL 2025.
     </div>
     <div style="margin-bottom: 10px;">
@@ -152,6 +155,9 @@ Foundation Language Models accepted by EMNLP 2024.
 <br>
 
 **Selected Publications**
+<span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs for Last-mile Delivery* <br>
+**Zhiqing Hong**, Yiwei Song, Zelong Li, Anlan Yu, Shuxin Zhong, Yi Ding, Tian He, Desheng Zhang<be>
+<u>Highlight</u>: **Efficient Large Language Model** and **Sensor Foundation Model** for generalizable on-device human behavior sensing
 
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining* [PDF](https://dl.acm.org/doi/10.1145/3659597) <br>
 **Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
