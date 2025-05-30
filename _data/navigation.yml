@@ -5,7 +5,5 @@ main:
     url: /research/
   - title: "Misc"
     url: /misc/
-  - title: "Code & Data"
-    url: /resources/
   - title: "Students"
     url: /students/
