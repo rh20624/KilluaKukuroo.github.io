@@ -30,7 +30,7 @@ author_profile: true
 
 <div style="height: 3px;"></div> <!-- 空行 -->
 
-<span style="color: blue; font-weight: bold;">I am currently on the job market and open to exploring various opportunities. Please feel free to contact me (<u>zhiqing.hong@rutgers.edu</u>) if you are interested in discussing potential collaborations or positions!</span>
+<span style="color: blue; font-weight: bold;">I am currently recruiting students and interns. Please feel free to contact me (<u>zhiqing.hong@rutgers.edu</u>) if you are interested!</span>
 
 
 **Recent News**
