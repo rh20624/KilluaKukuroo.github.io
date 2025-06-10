@@ -7,12 +7,12 @@ author_profile: true
 ***
 **Biography**
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-    I am a final-year Ph.D. student at the Computer Science Department, Rutgers University, under the supervision of Prof. 
+    I am a final-year Ph.D. student at the Department of Computer Science, Rutgers University, under the supervision of Prof. 
     <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a>. 
     I also work closely with Prof. 
     <a href="https://www-users.cs.umn.edu/~tianhe/" target="_blank" rel="noopener noreferrer">Tian He</a> 
     and Prof. 
-    <a href="http://www.yunhuai.net/Yunhuai.htm" target="_blank" rel="noopener noreferrer">Yunhuai Liu</a>.
+    <a href="http://www.yunhuai.net/Yunhuai.htm" target="_blank" rel="noopener noreferrer">Yunhuai Liu</a> throughout my Ph.D. studies.
 </div>
 <div style="height: 3px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
@@ -35,7 +35,7 @@ author_profile: true
 
 **Recent News**
 
-<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 15px;">
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">May. 2025:</span> One first-author paper about Efficient LLM for Human Activity Sensing accepted by KDD. 
     </div>
