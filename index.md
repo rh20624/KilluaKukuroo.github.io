@@ -7,7 +7,7 @@ author_profile: true
 ***
 **Biography**
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-    I am a final-year Ph.D. student at the Department of Computer Science, Rutgers University, advised by Prof. 
+    I am a final-year Ph.D. candidate at the Department of Computer Science, Rutgers University, advised by Prof. 
     <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a> and Prof.<a href="https://www-users.cs.umn.edu/~tianhe/" target="_blank" rel="noopener noreferrer">Tian He</a>. 
     
 </div>
