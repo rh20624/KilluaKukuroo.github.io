@@ -7,17 +7,14 @@ author_profile: true
 ***
 **Biography**
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-    I am a final-year Ph.D. student at the Department of Computer Science, Rutgers University, under the supervision of Prof. 
-    <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a>. 
-    I also work closely with Prof. 
-    <a href="https://www-users.cs.umn.edu/~tianhe/" target="_blank" rel="noopener noreferrer">Tian He</a> 
-    and Prof. 
-    <a href="http://www.yunhuai.net/Yunhuai.htm" target="_blank" rel="noopener noreferrer">Yunhuai Liu</a> throughout my Ph.D. studies.
+    I am a final-year Ph.D. student at the Department of Computer Science, Rutgers University, advised by Prof. 
+    <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a> and Prof.<a href="https://www-users.cs.umn.edu/~tianhe/" target="_blank" rel="noopener noreferrer">Tian He</a>. 
+    
 </div>
 <div style="height: 3px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-    My research interests broadly lie in <strong>Mobile Sensing</strong>, <strong>Human-centric Cyber-Physical Systems</strong>, <strong>Data Science</strong>, 
-    <strong>Generative AI</strong>, and <strong>Mobile and Ubiquitous Computing</strong> for <strong>smart cities</strong>. 
+    My research interests broadly lie in <strong>Generative AI</strong>, <strong>Embodied AI</strong>, <strong>Mobile Sensing</strong>, <strong>Human-centric Cyber-Physical Systems</strong>, <strong>Data Science</strong>, 
+    and <strong>Mobile and Ubiquitous Computing</strong> for <strong>Smart Cities</strong>. 
     My work involves various techniques, such as large language models (LLMs), large sensor models (LSM), efficient machine learning, 
     unsupervised machine learning, cross-domain data fusion, and large-scale system optimization & deployment. I have been investigating 
     platforms across more than 300 cities on 2 continents with 2 billion E-commerce orders, 300 thousand vehicles, 500 thousand mobile 
