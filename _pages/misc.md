@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-## Experience
+## Education
 * Ph.D.: Rutgers University, 2025 (expected)
 * Master's Degree: Zhejiang University, 2020
 * Bachelor's Degree: Xidian University, 2017
