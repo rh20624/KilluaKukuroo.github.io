@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page summarizes the publications related to Large Language Model (LLM), Generative AI, Generalizable AI, AIoT, Deployable Sensing Systems, and Ubiquitous and Mobile Sensing. The authors with * are the students working primarily or partially with me.
+This page summarizes the publications related to Large Language Model (LLM), Generative AI, Generalizable AI, AIoT, Deployable Sensing Systems, and Ubiquitous and Mobile Sensing. The authors with <u>underline</u> are the students working primarily or partially with me.
 
 ## 2025
 
@@ -26,10 +26,10 @@ Zejun Xie, **Zhiqing Hong**, Wenjun Lyu, Haotian Wang, Guang Wang, and Desheng Z
 Hongyu Lin, Shuxin Zhong, Yan Fang, **Zhiqing Hong**, Wenjun Lyu, Qipeng Xie, Haotian Wang, Lu Wang, and Kaishun Wu<br>
 
 <span style="color:Forestgreen;font-weight:bold">[SDM'25]</span> *AutoSTDiff: Autoregressive Spatio-Temporal Denoising Diffusion Model for Asynchronous Trajectory Generation* <br>
-Rongchao Xu*, **Zhiqing Hong**, and Guang Wang<br>
+<u>Rongchao Xu</u>, **Zhiqing Hong**, and Guang Wang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[PerCom'25]</span> *FineSat: Enhancing GNSS Signals for High-precision Sensing* <br>
-Anlan Yu*, Xuanzhi Wang, Pei Wang, Jinkun Li, Xujun Ma, **Zhiqing Hong**, Haotian Wang, Yi Ding, and Daqing Zhang<br>
+<u>Anlan Yu</u>, Xuanzhi Wang, Pei Wang, Jinkun Li, Xujun Ma, **Zhiqing Hong**, Haotian Wang, Yi Ding, and Daqing Zhang<br>
 
 ## 2024
 
@@ -47,7 +47,7 @@ Foundation Language Models* <br>
 Hengyi Wang, Shiwei Tan, **Zhiqing Hong**, Desheng Zhang, and Hao Wang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'24]</span> *Paths2Pair: Meta-path Based Link Prediction in Billion-Scale Commercial Heterogeneous Graphs* <br>
-Jinquan Hang*, **Zhiqing Hong**, Xinyue Feng, Guang Wang, Guang Yang, Feng Li, Xining Song, and Desheng Zhang<br>
+<u>Jinquan Hang</u>, **Zhiqing Hong**, Xinyue Feng, Guang Wang, Guang Yang, Feng Li, Xining Song, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'24]</span> *Where have you been? A Study of Privacy Risk for Point-of-Interest Recommendation* <br>
 Kunlin Cai, Jinghuai Zhang, **Zhiqing Hong**, Will Shand, Guang Wang, Desheng Zhang, Jianfeng Chi, and Yuan Tian<br>
@@ -56,7 +56,7 @@ Kunlin Cai, Jinghuai Zhang, **Zhiqing Hong**, Will Shand, Guang Wang, Desheng Zh
 Li Lin, Zhiqiang Lu, Shuai Wang, Yunhuai Liu, **Zhiqing Hong**, Haotian Wang, and Shuai Wang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[VLDB'24]</span> *Complex-Path: Effective and Efficient Node Ranking with Paths in Billion-Scale Heterogeneous Graphs* <br>
-Jinquan Hang*, **Zhiqing Hong**, Xinyue Feng, Guang Wang, Dongjiang Cao, Jiayang Qiao, Haotian Wang, and Desheng Zhang<br>
+<u>Jinquan Hang</u>, **Zhiqing Hong**, Xinyue Feng, Guang Wang, Dongjiang Cao, Jiayang Qiao, Haotian Wang, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[CIKM'24]</span> *AdaTrans: Adaptive Transfer Time Prediction for Multi-modal Transportation Modes* <br>
 Shuxin Zhong, Hua Wei, Wenjun Lyu, Guang Yang, **Zhiqing Hong**, Guang Wang, Yu Yang and Desheng Zhang<br>
