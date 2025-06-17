@@ -42,6 +42,9 @@ author_profile: true
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
     <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">June 2025:</span> Invited talk about Generalizable Machine Learning for Human Behavior Understanding in Smart Cities at MIT. 
+    </div>
+    <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">May. 2025:</span> One first-author paper about Efficient LLM for Human Activity Sensing accepted by KDD. 
     </div>
     <div style="margin-bottom: 10px;">
