@@ -28,9 +28,9 @@ author_profile: true
 <div style="height: 3px;"></div> <!-- 空行 -->
 
 <div style="background-color: #f0f8ff; border-left: 5px solid #1e90ff; padding: 10px 15px; margin: 20px 0; font-size: 1.1em; line-height: 1.6;">
-  <span style="font-size: 1.5em; margin-right: 8px;">📢</span>
+  <span style="font-size: 20px; margin-right: 8px;">📢</span>
   <span style="color: #1e90ff; font-weight: bold;">
-    I am currently looking for self-motivated PhD/MPhil/Visiting students, RAs, and Research Interns, starting from Spring/Fall 2026.
+    I am currently looking for self-motivated PhD/MPhil/Visiting students and RAs, starting from Spring/Fall 2026. Both remote and in-person Research Interns are welcome and can start from Summer 2025. 
     <br>
     Please feel free to contact me at <u>zhiqing.hong@rutgers.edu</u> if you are interested!
   </span>
