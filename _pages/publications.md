@@ -20,7 +20,7 @@ This page summarizes the publications related to Large Language Model (LLM), Gen
 Zejun Xie, **Zhiqing Hong**, Wenjun Lyu, Haotian Wang, Guang Wang, and Desheng Zhang<be>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *AddrLLM: Address Rewriting via Large Language Model on Nationwide Logistics Data* <br>
-_Qinchen Yang_, **Zhiqing Hong**, Dongjiang Cao, Haotian Wang, Zejun Xie, Yunhuai Liu, Tian He, Yu Yang, and Desheng Zhang<br>
+<u>Qinchen Yang</u>, **Zhiqing Hong**, Dongjiang Cao, Haotian Wang, Zejun Xie, Yunhuai Liu, Tian He, Yu Yang, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *A Fraudulent Blind Shipment Detection Framework in Logistics* <br>
 Hongyu Lin, Shuxin Zhong, Yan Fang, **Zhiqing Hong**, Wenjun Lyu, Qipeng Xie, Haotian Wang, Lu Wang, and Kaishun Wu<br>
