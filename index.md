@@ -29,7 +29,7 @@ author_profile: true
 
 <div style="background-color: #f0f8ff; border-left: 5px solid #1e90ff; padding: 10px 15px; margin: 20px 0; font-size: 20px; line-height: 1.6;">
   <span style="font-size: 20px; margin-right: 8px;">📢</span>
-  <span style="color: #1e90ff; font-weight: bold;">
+  <span style="color: #1e90ff;">
     I am currently looking for self-motivated PhD/MPhil/Visiting students and RAs, starting from Spring/Fall 2026 at HKUST(GZ). Both remote and in-person Research Interns are welcome and can start from Summer 2025. 
     <br>
     If you are interested, please feel free to contact me at <u>zhiqing.hong@rutgers.edu</u>, with CV, transcript, and a few sentences highlighting anything you believe would strengthen your application! 
