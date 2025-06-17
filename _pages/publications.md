@@ -13,7 +13,7 @@ This page summarizes the publications related to Large Language Model (LLM), Gen
 <span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs* <br>
 **Zhiqing Hong**, Yiwei Song, Zelong Li, Anlan Yu, Shuxin Zhong, Yi Ding, Tian He, Desheng Zhang<be>
 
-<span style="color:Forestgreen;font-weight:bold">[TMC'25]</span> *Real-time Abnormal Address Detection for Mobile Devices in Location-based Services* <br>
+<span style="color:royalblue;font-weight:bold">[TMC'25]</span> *Real-time Abnormal Address Detection for Mobile Devices in Location-based Services* <br>
 **Zhiqing Hong**, Heng Yang, Haotian Wang, Wenjun Lyu, Yu Yang, Guang Wang, Yunhuai Liu, Yang Wang, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[ACL'25]</span> *CoAlign: Uncertainty Calibration of LLM for Geospatial Repartition* <br>
@@ -39,7 +39,7 @@ Anlan Yu*, Xuanzhi Wang, Pei Wang, Jinkun Li, Xujun Ma, **Zhiqing Hong**, Haotia
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior* <br>
 **Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<be>
 
-<span style="color:Forestgreen;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* <br>
+<span style="color:royalblue;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* <br>
 **Zhiqing Hong**, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[EMNLP'24]</span> *Variational Language Concepts for Interpreting
