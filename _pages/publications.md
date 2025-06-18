@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page summarizes the publications related to Large Language Model (LLM), Generative AI, Generalizable AI, AIoT, Deployable Sensing Systems, and Ubiquitous and Mobile Sensing. The authors with <u>underline</u> are the students working primarily or partially with me.
+This page summarizes the publications related to Large Language Model (LLM), Generative AI, Generalizable AI, AIoT, Ubiquitous and Mobile Sensing, Deployable Sensing Systems, and Spatio-temporal Data Science. The authors with <u>underline</u> are the students working primarily or partially with me.
 
 ## 2025
 
