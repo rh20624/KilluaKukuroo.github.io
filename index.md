@@ -22,7 +22,7 @@ author_profile: true
 </div>
 <div style="height: 3px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-  My technical contributions have led to more than 20 papers in premium CS venues, e.g., IMWUT/UbiComp, KDD, ACL, ICDE, VLDB, EMNLP, TKDE, TMC, SIGSPATIAL, CIKM, and SDM. Several of my algorithms and systems have been adopted by industry, generating measurable real-world impact at a national scale. I have served as TPC, PC member, or reviewer for top conferences and journals in <em>Mobile Computing</em> (Mobicom Artifact Evaluation, IMWUT/Ubicomp, TOSN) and <em>Data Science and AI</em> (NIPS, ICML, ICLR, TMLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM).
+  My technical contributions have led to more than 20 papers in premium CS venues, e.g., MobiCom, IMWUT/UbiComp, KDD, ACL, ICDE, VLDB, EMNLP, TKDE, TMC, SIGSPATIAL, CIKM, and SDM. Several of my algorithms and systems have been adopted by industry, generating measurable real-world impact at a national scale. I have served as TPC, PC member, or reviewer for top conferences and journals in <em>Mobile Computing</em> (Mobicom Artifact Evaluation, IMWUT/Ubicomp, TOSN) and <em>Data Science and AI</em> (NIPS, ICML, ICLR, TMLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM).
 </div>
 
 <div style="height: 3px;"></div> <!-- 空行 -->
@@ -41,6 +41,9 @@ author_profile: true
 **Recent News**
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">June 2025:</span> One first-author paper about Nationwide Deployment of Sensor Foundation Model for Human Behavior Understanding accepted by ACM MobiCom. 
+    </div>
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">June 2025:</span> Invited talk about Generalizable Machine Learning for Human Behavior Understanding in Smart Cities at MIT. 
     </div>
