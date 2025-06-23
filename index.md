@@ -167,6 +167,10 @@ Foundation Language Models accepted by EMNLP 2024.
 
 **Selected Publications**
 
+<span style="color:Forestgreen;font-weight:bold">[MobiCom'25]</span> *DeployHAR: Experience Paper: Nationwide Human Behavior Sensing in Last-mile Delivery* <br>
+**Zhiqing Hong**, Weibing Wang, Anlan Yu, Shuxin Zhong, Haotian Wang, Yi Ding, Tian He, Desheng Zhang<br>
+<u>Highlight</u>: **Efficient Pretraining Model** for **Nationwide Deployment of** on-device human behavior sensing, covering **500,000** devices in **366 cities**
+
 <span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs* <br>
 **Zhiqing Hong**, Yiwei Song, Zelong Li, Anlan Yu, Shuxin Zhong, Yi Ding, Tian He, Desheng Zhang<br>
 <u>Highlight</u>: **Efficient Large Language Model** and **Sensor Foundation Model** for generalizable on-device human behavior sensing
