@@ -33,6 +33,8 @@ author_profile: true
     I am currently looking for self-motivated PhD/MPhil/Visiting students and RAs, starting from Spring/Fall 2026 at HKUST(GZ). Both remote and in-person Research Interns are welcome and can start from Summer 2025. 
     <br>
     If you are interested, please feel free to contact me at <u>zhiqing.hong@rutgers.edu</u>, with CV, transcript, and a few sentences highlighting anything you believe would strengthen your application! 
+    <br>
+    Please note that while I carefully read all inquiry emails, due to the large volume, I may not be able to respond to each one individually. Thank you for your understanding. 
   </span>
 </div>
 
