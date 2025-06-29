@@ -10,6 +10,9 @@ This page summarizes the publications related to Large Language Model (LLM), Gen
 
 ## 2025
 
+<span style="color:Forestgreen;font-weight:bold">[MobiCom'25]</span> *DeployHAR: Experience Paper: Nationwide Human Behavior Sensing in Last-mile Delivery* <br>
+**Zhiqing Hong**, Weibing Wang, Anlan Yu, Shuxin Zhong, Haotian Wang, Yi Ding, Tian He, Desheng Zhang<br>
+
 <span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *LLM4HAR: Generalizable On-device Human Activity Recognition with Pretrained LLMs* <br>
 **Zhiqing Hong**, Yiwei Song, Zelong Li, Anlan Yu, Shuxin Zhong, Yi Ding, Tian He, Desheng Zhang<be>
 
