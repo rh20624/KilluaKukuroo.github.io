@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Zhiqing Hong"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. Candidate in Computer Science, Rutgers University "
+  bio    : "Ph.D. Candidate, Rutgers University & Visiting Researcher, UC Berkeley"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
