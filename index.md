@@ -7,9 +7,9 @@ author_profile: true
 ***
 **Biography**
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-    I am a visiting researcher at Berkeley AI Research (BAIR) Lab, <a href="https://eecs.berkeley.edu/" target="_blank" rel="noopener noreferrer">UC Berkeley</a>. 
     I am a final-year Ph.D. candidate at the Department of Computer Science, Rutgers University, advised by Prof. 
-    <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a> (Associate Professor at Rutgers & Visiting Professor at MIT) and Prof.<a href="https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Tian He</a> (ACM/IEEE Fellow & VP at JD.COM). In January 2026, I will join the <a href="https://www.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">Hong Kong University of Science and Technology (Guangzhou)</a> as an Assistant Professor in <a href="https://iott.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">the Information Hub, IoT Thrust</a>. 
+    <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a> (Associate Professor at Rutgers & Visiting Professor at MIT) and Prof.<a href="https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Tian He</a> (ACM/IEEE Fellow & VP at JD.COM). I am also a visiting researcher at <a href="https://bair.berkeley.edu/" target="_blank" rel="noopener noreferrer">Berkeley AI Research (BAIR) Lab</a>, <a href="https://eecs.berkeley.edu/" target="_blank" rel="noopener noreferrer">UC Berkeley</a>. 
+    In January 2026, I will join the <a href="https://www.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">Hong Kong University of Science and Technology (Guangzhou)</a> as an Assistant Professor in <a href="https://iott.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">the Information Hub, IoT Thrust</a>. 
     
 </div>
 <div style="height: 3px;"></div> <!-- 空行 -->
