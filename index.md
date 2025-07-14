@@ -7,8 +7,9 @@ author_profile: true
 ***
 **Biography**
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
+    I am a visiting researcher at Berkeley AI Research (BAIR) Lab, <a href="https://eecs.berkeley.edu/" target="_blank" rel="noopener noreferrer">UC Berkeley</a>. 
     I am a final-year Ph.D. candidate at the Department of Computer Science, Rutgers University, advised by Prof. 
-    <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a> (Associate Professor at Rutgers & Visiting Professor at MIT) and Prof.<a href="https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Tian He</a> (ACM/IEEE Fellow & VP at JD.COM). Starting this summer, I will be a visiting researcher at <a href="https://eecs.berkeley.edu/" target="_blank" rel="noopener noreferrer">UC Berkeley</a>. In January 2026, I will join the <a href="https://www.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">Hong Kong University of Science and Technology (Guangzhou)</a> as an Assistant Professor in <a href="https://iott.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">the Information Hub, IoT Thrust</a>. 
+    <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a> (Associate Professor at Rutgers & Visiting Professor at MIT) and Prof.<a href="https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Tian He</a> (ACM/IEEE Fellow & VP at JD.COM). In January 2026, I will join the <a href="https://www.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">Hong Kong University of Science and Technology (Guangzhou)</a> as an Assistant Professor in <a href="https://iott.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">the Information Hub, IoT Thrust</a>. 
     
 </div>
 <div style="height: 3px;"></div> <!-- 空行 -->
@@ -45,6 +46,9 @@ author_profile: true
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">June 2025:</span> One first-author paper about Nationwide Deployment of Sensor Foundation Model for Human Behavior Understanding accepted by ACM MobiCom. 
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">June 2025:</span> Two co-author papers accepted by IEEE TMC. 
     </div>
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">June 2025:</span> Invited talk about Generalizable Machine Learning for Human Behavior Understanding in Smart Cities at MIT. 
