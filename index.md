@@ -33,7 +33,7 @@ author_profile: true
   <span style="color: #1e90ff;">
     I am currently looking for self-motivated PhD/MPhil/Visiting students and RAs, starting from Spring/Fall 2026 at HKUST(GZ). Both remote and in-person Research Interns are welcome and can start from Summer 2025. 
     <br>
-    If you are interested, please feel free to contact me at <u>zhiqing.hong@rutgers.edu</u>, with CV, transcript, and a few sentences highlighting anything you believe would strengthen your application! 
+    If you are interested, please feel free to contact me at <u>zhiqing.hong@rutgers.edu</u> or <u>zhiqing@berkeley.edu</u>, with CV, transcript, and a few sentences highlighting anything you believe would strengthen your application! 
     <br>
     Please note that while I carefully read all inquiry emails, due to the large volume, I may not be able to respond to each one individually. Thank you for your understanding. 
   </span>
@@ -44,6 +44,12 @@ author_profile: true
 **Recent News**
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">July 2025:</span> One co-author paper accepted by ACM SIGSPATIAL. 
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">July 2025:</span> Visit Amazon & Meta in NYC, and MIT in Boston. 
+    </div>
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">June 2025:</span> One first-author paper about Nationwide Deployment of Sensor Foundation Model for Human Behavior Understanding accepted by ACM MobiCom. 
     </div>
