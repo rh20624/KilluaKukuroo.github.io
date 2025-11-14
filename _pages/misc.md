@@ -24,8 +24,10 @@ author_profile: true
 * IEEE Transactions on Computational Social Systems (TCSS)
 
 ## Awards
-* NIPS Top Reviewer Award, 2024
-* Distinguished Paper Award for WePos, IoT Committee of Chinese Institute of Electronics, 2023
+* CIKM Best Student Applied Research Paper Award, 2025
+* KDD Travel Grant, 2025
+* NeurIPS Top Reviewer Award, 2024
+* Distinguished Paper Award for WePos, IoT Committee of the Chinese Institute of Electronics, 2023
 * ICDM Student Travel Grant, 2023
 * SIGSPATIAL Student Travel Grant, 2022
 * KDD Student Registration Award, 2021
