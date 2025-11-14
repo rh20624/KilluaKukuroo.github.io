@@ -45,6 +45,12 @@ author_profile: true
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
     <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">November 2025:</span> Our CIKM paper got the Best Student Applied Research Paper Award. 
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">November 2025:</span> Two co-author papers accepted by ACM CIKM. 
+    </div>
+    <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">July 2025:</span> One co-author paper accepted by ACM SIGSPATIAL. 
     </div>
     <div style="margin-bottom: 10px;">
