@@ -25,6 +25,12 @@ This page summarizes the publications related to Large Language Model (LLM), Gen
 <span style="color:royalblue;font-weight:bold">[TMC'25]</span> *Real-time Abnormal Address Detection for Mobile Devices in Location-based Services* <br>
 **Zhiqing Hong**, Heng Yang, Haotian Wang, Wenjun Lyu, Yu Yang, Guang Wang, Yunhuai Liu, Yang Wang, and Desheng Zhang<br>
 
+<span style="color:Forestgreen;font-weight:bold">[CIKM'25]</span> *D3-TR: Data-driven Daily Delivery Task Rescheduling for Cost-Effective Last-mile Delivery* <br>
+Lidi Zhang, Yinfeng Xiang, Wenjun Lyu, **Zhiqing Hong**, Haotian Wang, Desheng Zhang, Yunhuai Liu, and Tian He (**Best Student Applied Research Paper Award**)<be>
+
+<span style="color:Forestgreen;font-weight:bold">[AAAI'26]</span> *GeoGen: A Two-stage Coarse-to-Fine Framework for Fine-grained Synthetic Location-based Social Network Trajectory Generation* <br>
+Rongchao Xu, Kunlin Cai, Lin Jiang, Dahai Yu, **Zhiqing Hong**, Yuan Tian, and Guang Wang<be>
+
 <span style="color:Forestgreen;font-weight:bold">[ACL'25]</span> *CoAlign: Uncertainty Calibration of LLM for Geospatial Repartition* <br>
 Zejun Xie, **Zhiqing Hong**, Wenjun Lyu, Haotian Wang, Guang Wang, and Desheng Zhang<be>
 
