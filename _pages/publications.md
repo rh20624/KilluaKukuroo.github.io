@@ -8,6 +8,12 @@ author_profile: true
 
 This page summarizes the publications related to Large Language Model (LLM), Generative AI, Generalizable AI, AIoT, Ubiquitous and Mobile Sensing, Deployable Sensing Systems, and Spatio-temporal Data Science. The authors with <u>underline</u> are the students working primarily or partially with me.
 
+
+## Under Review
+<span style="color:royalblue;font-weight:bold">[Nature Cities'25]</span> *Measuring Greenhouse Gas Emissions with AI and Millions of Phones* <br>
+**Zhiqing Hong**, et al., and Desheng Zhang (**Minor Revision**)<br>
+
+
 ## 2025
 
 <span style="color:Forestgreen;font-weight:bold">[MobiCom'25]</span> *DeployHAR: Experience Paper: Nationwide Human Behavior Sensing in Last-mile Delivery* <br>
