@@ -54,6 +54,9 @@ author_profile: true
         <span style="color: #87CEEB; font-weight: bold;">November 2025:</span> Two co-author papers accepted by ACM CIKM. 
     </div>
     <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">Oct. 2025:</span> Invited talk about Generalizable Machine Learning for Human Behavior Understanding at UC Berkeley. 
+    </div>
+    <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">July 2025:</span> One co-author paper accepted by ACM SIGSPATIAL. 
     </div>
     <div style="margin-bottom: 10px;">
