@@ -10,6 +10,8 @@ classes: wide
 
 * Lidan Cao, 2026 Spring
 
+* Yanglin Zhang, 2026 Spring
+
 
 ## Visiting Students / Interns
 
