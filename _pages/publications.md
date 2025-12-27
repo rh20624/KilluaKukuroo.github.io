@@ -9,6 +9,14 @@ author_profile: true
 This page summarizes the publications related to Large Language Model (LLM), Generative AI, Generalizable AI, AIoT, Ubiquitous and Mobile Sensing, Deployable Sensing Systems, and Spatio-temporal Data Science. The authors with <u>underline</u> are the students working primarily or partially with me.
 
 
+## Preprint
+
+<span style="color:Forestgreen;font-weight:bold">[2025]</span> *Towards Generalizable Human Activity Recognition: A Survey* <br>
+<u>Yize Cai</u>, Baoshen Guo, Flora Salim, **Zhiqing Hong**<br>
+
+<span style="color:Forestgreen;font-weight:bold">[2025]</span> *Language Modeling for Urban Mobility: A Data-Centric Review and Guidelines* <br>
+Baoshen Guo, **Zhiqing Hong**, Lidan Cao, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao<br>
+
 ## 2025
 
 <span style="color:Forestgreen;font-weight:bold">[MobiCom'25]</span> *DeployHAR: Experience Paper: Nationwide Human Behavior Sensing in Last-mile Delivery* <br>
@@ -24,13 +32,13 @@ This page summarizes the publications related to Large Language Model (LLM), Gen
 Lidi Zhang, Yinfeng Xiang, Wenjun Lyu, **Zhiqing Hong**, Haotian Wang, Desheng Zhang, Yunhuai Liu, and Tian He (**Best Student Applied Research Paper Award**)<be>
 
 <span style="color:Forestgreen;font-weight:bold">[AAAI'26]</span> *GeoGen: A Two-stage Coarse-to-Fine Framework for Fine-grained Synthetic Location-based Social Network Trajectory Generation* <br>
-Rongchao Xu, Kunlin Cai, Lin Jiang, Dahai Yu, **Zhiqing Hong**, Yuan Tian, and Guang Wang<be>
+<u>Rongchao Xu</u>, Kunlin Cai, Lin Jiang, Dahai Yu, **Zhiqing Hong**, Yuan Tian, and Guang Wang<be>
 
 <span style="color:Forestgreen;font-weight:bold">[ACL'25]</span> *CoAlign: Uncertainty Calibration of LLM for Geospatial Repartition* <br>
 Zejun Xie, **Zhiqing Hong**, Wenjun Lyu, Haotian Wang, Guang Wang, and Desheng Zhang<be>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *AddrLLM: Address Rewriting via Large Language Model on Nationwide Logistics Data* <br>
-<u>Qinchen Yang</u>, **Zhiqing Hong**, Dongjiang Cao, Haotian Wang, Zejun Xie, Yunhuai Liu, Tian He, Yu Yang, and Desheng Zhang<br>
+Qinchen Yang, **Zhiqing Hong**, Dongjiang Cao, Haotian Wang, Zejun Xie, Yunhuai Liu, Tian He, Yu Yang, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'25]</span> *A Fraudulent Blind Shipment Detection Framework in Logistics* <br>
 Hongyu Lin, Shuxin Zhong, Yan Fang, **Zhiqing Hong**, Wenjun Lyu, Qipeng Xie, Haotian Wang, Lu Wang, and Kaishun Wu<br>
