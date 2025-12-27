@@ -17,6 +17,13 @@ This page summarizes the publications related to Large Language Model (LLM), Gen
 <span style="color:Forestgreen;font-weight:bold">[2025]</span> *Language Modeling for Urban Mobility: A Data-Centric Review and Guidelines* <br>
 Baoshen Guo, **Zhiqing Hong**, Lidan Cao, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao<br>
 
+## 2026
+<span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> *GenHAR: Generalizing Cross-domain Human Activity Recognition via Frequency Attention LLMs* <br>
+**Zhiqing Hong**, Zelong Li, Xiubin Fan, Guang Yang, Baoshen Guo, Haotian Wang, Tian He, Desheng Zhang<be>
+
+<span style="color:Forestgreen;font-weight:bold">[AAAI'26]</span> *GeoGen: A Two-stage Coarse-to-Fine Framework for Fine-grained Synthetic Location-based Social Network Trajectory Generation* <br>
+<u>Rongchao Xu</u>, Kunlin Cai, Lin Jiang, Dahai Yu, **Zhiqing Hong**, Yuan Tian, and Guang Wang<be>
+
 ## 2025
 
 <span style="color:Forestgreen;font-weight:bold">[MobiCom'25]</span> *DeployHAR: Experience Paper: Nationwide Human Behavior Sensing in Last-mile Delivery* <br>
@@ -30,9 +37,6 @@ Baoshen Guo, **Zhiqing Hong**, Lidan Cao, Donghang Li, Junyi Li, Can Rong, Alok 
 
 <span style="color:Forestgreen;font-weight:bold">[CIKM'25]</span> *D3-TR: Data-driven Daily Delivery Task Rescheduling for Cost-Effective Last-mile Delivery* <br>
 Lidi Zhang, Yinfeng Xiang, Wenjun Lyu, **Zhiqing Hong**, Haotian Wang, Desheng Zhang, Yunhuai Liu, and Tian He (**Best Student Applied Research Paper Award**)<be>
-
-<span style="color:Forestgreen;font-weight:bold">[AAAI'26]</span> *GeoGen: A Two-stage Coarse-to-Fine Framework for Fine-grained Synthetic Location-based Social Network Trajectory Generation* <br>
-<u>Rongchao Xu</u>, Kunlin Cai, Lin Jiang, Dahai Yu, **Zhiqing Hong**, Yuan Tian, and Guang Wang<be>
 
 <span style="color:Forestgreen;font-weight:bold">[ACL'25]</span> *CoAlign: Uncertainty Calibration of LLM for Geospatial Repartition* <br>
 Zejun Xie, **Zhiqing Hong**, Wenjun Lyu, Haotian Wang, Guang Wang, and Desheng Zhang<be>
