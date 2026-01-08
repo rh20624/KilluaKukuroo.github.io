@@ -6,9 +6,9 @@ classes: wide
 ---
 
 ## PhD Students
-### [Yize Cai](https://saiketa.github.io/), 2026 Spring
+* [Yize Cai](https://saiketa.github.io/), 2026 Spring
 
-### Lidan Cao, 2026 Spring
+* Lidan Cao, 2026 Spring
 
 ## Visiting Students / Interns
 
