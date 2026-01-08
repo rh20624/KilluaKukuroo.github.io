@@ -6,12 +6,9 @@ classes: wide
 ---
 
 ## PhD Students
-* [Yize Cai](https://saiketa.github.io/), 2026 Spring
+### [Yize Cai](https://saiketa.github.io/), 2026 Spring
 
-* Lidan Cao, 2026 Spring
-
-* Yanglin Zhang, 2026 Spring
-
+### Lidan Cao, 2026 Spring
 
 ## Visiting Students / Interns
 
@@ -24,6 +21,8 @@ classes: wide
 * Jiahao Shu, University of Science and Technology of China
 
 * Xintong Li, Renmin University of China
+
+* Jessie Li, UC Berkeley
 
 
 
