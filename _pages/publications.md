@@ -6,16 +6,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page summarizes the publications related to Large Language Model (LLM), Generative AI, Generalizable AI, AIoT, Ubiquitous and Mobile Sensing, Deployable Sensing Systems, and Spatio-temporal Data Science. The authors with <u>underline</u> are the students working primarily or partially with me.
+This page summarizes the publications related to Large Language Model (LLM), Generative AI, Generalizable AI, AIoT, Ubiquitous and Mobile Sensing, Deployable Sensing Systems, and Spatio-temporal Data Science. + indicates co-first authors. The authors with <u>underline</u> are the students working primarily or partially with me.
 
 
 ## Preprint
+<span style="color:Forestgreen;font-weight:bold">[2025]</span> *What Do Large Language Models Know About Opinions?* <br>
+Erfan Jahanparast, **Zhiqing Hong**, Serina Chang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[2025]</span> *Towards Generalizable Human Activity Recognition: A Survey* <br>
 <u>Yize Cai</u>, Baoshen Guo, Flora Salim, **Zhiqing Hong**<br>
 
 <span style="color:Forestgreen;font-weight:bold">[2025]</span> *Language Modeling for Urban Mobility: A Data-Centric Review and Guidelines* <br>
-Baoshen Guo, **Zhiqing Hong**, Lidan Cao, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao<br>
+Baoshen Guo+, **Zhiqing Hong+**, Lidan Cao+, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao<br>
 
 ## 2026
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> *GenHAR: Generalizing Cross-domain Human Activity Recognition via Frequency Attention LLMs* <br>
