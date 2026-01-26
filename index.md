@@ -7,16 +7,16 @@ author_profile: true
 ***
 **Biography**
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-    I am a final-year Ph.D. candidate at the Department of Computer Science, Rutgers University, advised by Prof. 
-    <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a> (Associate Professor at Rutgers & Visiting Professor at MIT) and Prof.<a href="https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Tian He</a> (ACM/IEEE Fellow & VP at JD.COM). I am also a visiting researcher at <a href="https://bair.berkeley.edu/" target="_blank" rel="noopener noreferrer">Berkeley AI Research (BAIR) Lab</a>, <a href="https://eecs.berkeley.edu/" target="_blank" rel="noopener noreferrer">UC Berkeley</a>. 
-    In January 2026, I will join the <a href="https://www.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">Hong Kong University of Science and Technology (Guangzhou)</a> as an Assistant Professor in <a href="https://iott.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">the Information Hub, IoT Thrust</a>. 
+    I am an Assistant Professor in <a href="https://iott.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">the Information Hub, IoT Thrust</a>, <a href="https://www.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">Hong Kong University of Science and Technology (Guangzhou)</a>. Previously, I am a visiting researcher at <a href="https://bair.berkeley.edu/" target="_blank" rel="noopener noreferrer">Berkeley AI Research (BAIR) Lab</a>, <a href="https://eecs.berkeley.edu/" target="_blank" rel="noopener noreferrer">UC Berkeley</a>. I got a Ph.D. degree from the Department of Computer Science, Rutgers University, advised by Prof. 
+    <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a> (Associate Professor at Rutgers & Visiting Professor at MIT), Prof.<a href="https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Tian He</a> (ACM/IEEE Fellow & VP at JD.COM), and Prof.<a href="https://scholar.google.com/citations?user=fsaThecAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Yunhuai Liu</a> (Professor at Peking University).
+    
     
 </div>
 <div style="height: 3px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
     My research interests broadly lie in <strong>Generative AI</strong>, <strong>Embodied AI</strong>, <strong>Mobile Sensing</strong>, <strong>Human-centric Cyber-Physical Systems</strong>, <strong>Data Science</strong>, 
     and <strong>Mobile and Ubiquitous Computing</strong> for <strong>Smart Cities</strong>. 
-    My work involves various techniques, such as large language models (LLMs), large sensor models (LSM), efficient machine learning, 
+    My work involves various techniques, such as large language models (LLMs), large sensor models (LSMs), efficient machine learning, 
     unsupervised machine learning, cross-domain data fusion, and large-scale system optimization & deployment. I have been investigating 
     platforms across more than 300 cities on 2 continents with 2 billion E-commerce orders, 300 thousand vehicles, 500 thousand mobile 
     devices, and 500 million residents involved.
@@ -33,7 +33,7 @@ author_profile: true
   <span style="color: #1e90ff;">
     I am currently looking for self-motivated PhD/MPhil/Visiting students and RAs, starting from Fall 2026 at HKUST(GZ). Both remote and in-person Research Interns are welcome. 
     <br>
-    If you are interested, please feel free to contact me at <u>zhiqing.hong@rutgers.edu</u> or <u>zhiqing@berkeley.edu</u>, with CV, transcript, and a few sentences highlighting anything you believe would strengthen your application! 
+    If you are interested, please feel free to contact me at <u>zhiqinghong@hkust-gz.edu.cn</u>  ~~<u>zhiqing.hong@rutgers.edu</u>~~ or ~~<u>zhiqing@berkeley.edu</u>~~, with CV and a few sentences highlighting anything you believe would strengthen your application! 
     <br>
     Please note that while I carefully read all inquiry emails, due to the large volume, I may not be able to respond to each one individually. Thank you for your understanding. 
   </span>
@@ -44,6 +44,9 @@ author_profile: true
 **Recent News**
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">Jan. 2026:</span> Our paper about LLM accepted by ICLR. 
+    </div>
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">November 2025:</span> Our CIKM paper got the Best Student Applied Research Paper Award. 
     </div>
