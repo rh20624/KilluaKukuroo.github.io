@@ -20,6 +20,9 @@ Erfan Jahanparast, **Zhiqing Hong**, Serina Chang<br>
 Baoshen Guo+, **Zhiqing Hong+**, Lidan Cao+, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao<br>
 
 ## 2026
+<span style="color:royalblue;font-weight:bold">[Nature Cities]</span> *Decarbonizing Emissions from Last-Mile Deliveries in Chinese Cities* <br>
+**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyu, Haotian Wang, Shenhao Wang, Shuai Wang, Yunhuai Liu, Dabo Guan, Tian He, Guang Wang, and Desheng Zhang (**Accepted in Principle**)<br>
+
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> *GenHAR: Generalizing Cross-domain Human Activity Recognition via Frequency Attention LLMs* <br>
 **Zhiqing Hong**, Zelong Li, Xiubin Fan, Guang Yang, Baoshen Guo, Haotian Wang, Tian He, Desheng Zhang<be>
 
