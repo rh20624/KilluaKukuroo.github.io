@@ -27,7 +27,7 @@ Baoshen Guo+, **Zhiqing Hong+**, Lidan Cao+, Donghang Li, Junyi Li, Can Rong, Al
 <span style="color:Forestgreen;font-weight:bold">[ICLR'26]</span> *What Do Large Language Models Know About Opinions?* <br>
 Erfan Jahanparast, **Zhiqing Hong**, Serina Chang<br>
 
-<span style="color:royalblue;font-weight:bold">[KDD'26]</span> 
+<span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> 
 <i>Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion</i> <br>
 Baoshen Guo, <b>Zhiqing Hong</b>, Junyi Li, Shenhao Wang, and Jinhua Zhao<br>
 
@@ -68,7 +68,7 @@ Xiubin Fan, Zhongming Lin, Yuming Hu, <b>Zhiqing Hong</b>, Tianrui Jiang, Feng Q
 <i>Cellular Infrastructure Sharing for Network Robustness: A Citywide Empirical Study</i> <br>
 Zhihan Fang, Guang Yang, Wenjun Lyu, <b>Zhiqing Hong</b>, Shuxin Zhong, Weijian Zuo, Yuelei Xie, Yu Yang, Guang Wang, Yunhuai Liu, and Desheng Zhang<br>
 
-<span style="color:royalblue;font-weight:bold">[SIGSPATIAL'25]</span> 
+<span style="color:Forestgreen;font-weight:bold">[SIGSPATIAL'25]</span> 
 <i>MuST2-Learn: Multi-view Spatial-Temporal-Type Learning for Heterogeneous Municipal Service Time Estimation</i> <br>
 Nadia Asif, <b>Zhiqing Hong</b>, Shaogang Ren, Xiaonan Zhang, Xiaojun Shang, and Yukun Yuan<br>
 
