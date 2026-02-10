@@ -10,8 +10,6 @@ This page summarizes the publications related to Large Language Model (LLM), Gen
 
 
 ## Preprint
-<span style="color:Forestgreen;font-weight:bold">[2025]</span> *What Do Large Language Models Know About Opinions?* <br>
-Erfan Jahanparast, **Zhiqing Hong**, Serina Chang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[2025]</span> *Towards Generalizable Human Activity Recognition: A Survey* <br>
 <u>Yize Cai</u>, Baoshen Guo, Flora Salim, **Zhiqing Hong**<br>
@@ -25,6 +23,13 @@ Baoshen Guo+, **Zhiqing Hong+**, Lidan Cao+, Donghang Li, Junyi Li, Can Rong, Al
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> *GenHAR: Generalizing Cross-domain Human Activity Recognition via Frequency Attention LLMs* <br>
 **Zhiqing Hong**, Zelong Li, Xiubin Fan, Guang Yang, Baoshen Guo, Haotian Wang, Tian He, Desheng Zhang<be>
+
+<span style="color:Forestgreen;font-weight:bold">[ICLR'26]</span> *What Do Large Language Models Know About Opinions?* <br>
+Erfan Jahanparast, **Zhiqing Hong**, Serina Chang<br>
+
+<span style="color:royalblue;font-weight:bold">[KDD'26]</span> 
+<i>Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion</i> <br>
+Baoshen Guo, <b>Zhiqing Hong</b>, Junyi Li, Shenhao Wang, and Jinhua Zhao<br>
 
 <span style="color:Forestgreen;font-weight:bold">[AAAI'26]</span> *GeoGen: A Two-stage Coarse-to-Fine Framework for Fine-grained Synthetic Location-based Social Network Trajectory Generation* <br>
 <u>Rongchao Xu</u>, Kunlin Cai, Lin Jiang, Dahai Yu, **Zhiqing Hong**, Yuan Tian, and Guang Wang<be>
@@ -54,6 +59,18 @@ Hongyu Lin, Shuxin Zhong, Yan Fang, **Zhiqing Hong**, Wenjun Lyu, Qipeng Xie, Ha
 
 <span style="color:Forestgreen;font-weight:bold">[SDM'25]</span> *AutoSTDiff: Autoregressive Spatio-Temporal Denoising Diffusion Model for Asynchronous Trajectory Generation* <br>
 <u>Rongchao Xu</u>, **Zhiqing Hong**, and Guang Wang<br>
+
+<span style="color:royalblue;font-weight:bold">[TMC'25]</span> 
+<i>Experiences of Deploying a Large-Scale Indoor Delivery Monitoring System</i> <br>
+Xiubin Fan, Zhongming Lin, Yuming Hu, <b>Zhiqing Hong</b>, Tianrui Jiang, Feng Qian, Zhimeng Yin, S-H Gary Chan, and Dapeng Oliver Wu<br>
+
+<span style="color:royalblue;font-weight:bold">[TMC'25]</span> 
+<i>Cellular Infrastructure Sharing for Network Robustness: A Citywide Empirical Study</i> <br>
+Zhihan Fang, Guang Yang, Wenjun Lyu, <b>Zhiqing Hong</b>, Shuxin Zhong, Weijian Zuo, Yuelei Xie, Yu Yang, Guang Wang, Yunhuai Liu, and Desheng Zhang<br>
+
+<span style="color:royalblue;font-weight:bold">[SIGSPATIAL'25]</span> 
+<i>MuST2-Learn: Multi-view Spatial-Temporal-Type Learning for Heterogeneous Municipal Service Time Estimation</i> <br>
+Nadia Asif, <b>Zhiqing Hong</b>, Shaogang Ren, Xiaonan Zhang, Xiaojun Shang, and Yukun Yuan<br>
 
 <span style="color:Forestgreen;font-weight:bold">[PerCom'25]</span> *FineSat: Enhancing GNSS Signals for High-precision Sensing* <br>
 <u>Anlan Yu</u>, Xuanzhi Wang, Pei Wang, Jinkun Li, Xujun Ma, **Zhiqing Hong**, Haotian Wang, Yi Ding, and Daqing Zhang<br>
