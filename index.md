@@ -45,6 +45,9 @@ author_profile: true
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
     <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">Feb. 2026:</span> Our paper about urban POI accepted by IEEE TMC. 
+    </div>
+    <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">Jan. 2026:</span> Our paper about LLM accepted by ICLR. 
     </div>
     <div style="margin-bottom: 10px;">
