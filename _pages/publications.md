@@ -17,12 +17,21 @@ This page summarizes the publications related to Large Language Model (LLM), Gen
 <span style="color:Forestgreen;font-weight:bold">[2025]</span> *Language Modeling for Urban Mobility: A Data-Centric Review and Guidelines* <br>
 Baoshen Guo+, **Zhiqing Hong+**, Lidan Cao+, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao<br>
 
+<span style="color:Forestgreen;font-weight:bold">[2026]</span> *Any to Full: Prompting Depth Anything for Depth Completion in One Stage* <br>
+<u>Zhiyuan Zhou</u>, Ruofeng Liu, Taichi Liu, Weijian Zuo, Shanshan Wang, **Zhiqing Hong**, Desheng Zhang<br>
+
+<span style="color:Forestgreen;font-weight:bold">[2026]</span> *Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision* <br>
+<u>Jessie Li</u>, **Zhiqing Hong**, Toru Shirakawa, Serina Chang<br>
+
 ## 2026
 <span style="color:royalblue;font-weight:bold">[Nature Cities]</span> *Evolving Greenhouse Gas Emissions Measurement from Urban Delivery with Millions of Phones* <br>
 **Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyu, Haotian Wang, Shenhao Wang, Shuai Wang, Yunhuai Liu, Dabo Guan, Tian He, Guang Wang, and Desheng Zhang (**Accepted in Principle**)<br>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> *GenHAR: Generalizing Cross-domain Human Activity Recognition via Frequency Attention LLMs* <br>
 **Zhiqing Hong**, Zelong Li, Xiubin Fan, Guang Yang, Baoshen Guo, Haotian Wang, Tian He, Desheng Zhang<be>
+
+<span style="color:royalblue;font-weight:bold">[TMC'26]</span> *UrbanPOI: Updating Urban POIs with Large-scale Crowdsourcing for Location-based Services* <br>
+**Zhiqing Hong**, Baoshen Guo, Wenjun Lyu, Haotian Wang, Yunhuai Liu, Guang Wang, Tian He, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[ICLR'26]</span> *What Do Large Language Models Know About Opinions?* <br>
 Erfan Jahanparast, **Zhiqing Hong**, Serina Chang<br>
@@ -33,6 +42,9 @@ Baoshen Guo, <b>Zhiqing Hong</b>, Junyi Li, Shenhao Wang, and Jinhua Zhao<br>
 
 <span style="color:Forestgreen;font-weight:bold">[AAAI'26]</span> *GeoGen: A Two-stage Coarse-to-Fine Framework for Fine-grained Synthetic Location-based Social Network Trajectory Generation* <br>
 <u>Rongchao Xu</u>, Kunlin Cai, Lin Jiang, Dahai Yu, **Zhiqing Hong**, Yuan Tian, and Guang Wang<be>
+
+<span style="color:royalblue;font-weight:bold">[TMC'26]</span> *Mobility-Aware Order Relay in Last-Mile Delivery* <br>
+Wenjun Lyu, Haotian Wang, **Zhiqing Hong**, Guang Wang, Yu Yang, Shuai Wang, Yunhuai Liu, Tian He, and Desheng Zhang<br>
 
 ## 2025
 
