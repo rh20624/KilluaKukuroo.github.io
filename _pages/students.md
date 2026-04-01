@@ -13,17 +13,15 @@ classes: wide
 ## Visiting Students / Interns
 
 * Anlan Yu, Peking University
-
-* Weibin Wang, UW–Madison & University of Pennsylvania
-
+  
 * Jiahao Shu, University of Science and Technology of China
-
+  
 * Xintong Li, Renmin University of China
 
-* Jessie Li, UC Berkeley
 
 ## Alumni
-* Lidan Cao, 2025, Master from Johns Hopkins University -- Next: PhD student at HKUST(GZ)
-* 
 
-
+* Lidan Cao, 2025 Intern, M.S. from Johns Hopkins University — Next: Ph.D. student at HKUST(GZ)
+* Weibin Wang, 2025–2026 Intern, Undergraduate at UW–Madison — Next: Master’s student at MIT
+* Jessie Li, 2025–2026 Intern, M.S. from UC Berkeley — Next: Ph.D. student at UC Berkeley
+  * Generative AI, human mobility
