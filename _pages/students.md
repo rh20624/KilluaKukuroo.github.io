@@ -16,14 +16,14 @@ classes: wide
 
 * Weibin Wang, UW–Madison & University of Pennsylvania
 
-* Lidan Cao, Johns Hopkins University
-
 * Jiahao Shu, University of Science and Technology of China
 
 * Xintong Li, Renmin University of China
 
 * Jessie Li, UC Berkeley
 
-
+## Alumni
+* Lidan Cao, 2025, Master from Johns Hopkins University -- Next: PhD student at HKUST(GZ)
+* 
 
 
