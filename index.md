@@ -23,7 +23,7 @@ author_profile: true
 </div>
 <div style="height: 3px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
-  My technical contributions have led to more than 20 papers in premium CS venues, e.g., MobiCom, IMWUT/UbiComp, KDD, ACL, ICDE, VLDB, EMNLP, TKDE, TMC, SIGSPATIAL, CIKM, and SDM. Several of my algorithms and systems have been adopted by industry, generating measurable real-world impact at a national scale. I have served as TPC, PC member, or reviewer for top conferences and journals in <em>Mobile Computing</em> (Mobicom Artifact Evaluation, IMWUT/Ubicomp, TOSN) and <em>Data Science and AI</em> (NIPS, ICML, ICLR, TMLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM).
+  My technical contributions have led to more than 30 papers in premium CS venues, e.g., MobiCom, IMWUT/UbiComp, KDD, ACL, ICDE, VLDB, EMNLP, TKDE, TMC, SIGSPATIAL, CIKM, and SDM. Several of my algorithms and systems have been adopted by industry, generating measurable real-world impact at a national scale. I have served as Area Chair, TPC, PC member, or reviewer for top conferences and journals in <em>Mobile Computing</em> (Mobicom Artifact Evaluation, IMWUT/Ubicomp, SenSys, TOSN) and <em>Data Science and AI</em> (NIPS, ICML, ICLR, TMLR, AISTATS, KDD, AAAI, EMNLP, WWW, DMLR, WSDM, SDM, ICWSM).
 </div>
 
 <div style="height: 3px;"></div> <!-- 空行 -->
@@ -31,11 +31,11 @@ author_profile: true
 <div style="background-color: #f0f8ff; border-left: 5px solid #1e90ff; padding: 10px 15px; margin: 20px 0; font-size: 20px; line-height: 1.6;">
   <span style="font-size: 20px; margin-right: 8px;">📢</span>
   <span style="color: #1e90ff;">
-    I am currently looking for self-motivated PhD/MPhil/Visiting students and RAs, starting from Fall 2026 at HKUST(GZ). Both remote and in-person Research Interns are welcome. 
+    Looking for self-motivated PhD/MPhil/Visiting students and RAs, starting from Fall 2026 at HKUST(GZ). Both remote and in-person Research Interns are welcome. 
     <br>
-    If you are interested, please feel free to contact me at <u>zhiqinghong@hkust-gz.edu.cn</u>, with CV and a few sentences highlighting anything you believe would strengthen your application! 
+    Contact me at <u>zhiqinghong@hkust-gz.edu.cn</u>, with your CV! 
     <br>
-    Please note that while I carefully read all inquiry emails, due to the large volume, I may not be able to respond to each one individually. Thank you for your understanding. 
+    While I carefully read all inquiry emails, due to the large volume, I may not be able to respond to each one individually. Thank you for your understanding. 
   </span>
 </div>
 
