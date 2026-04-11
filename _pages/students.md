@@ -11,11 +11,11 @@ classes: wide
 
 * Lidan Cao, 2026 Spring
 
-## Visiting Students / Interns
+## Visiting Students / Interns / RAs
 
 * Anlan Yu, Peking University
 * Jiahao Shu, University of Science and Technology of China
-* Xintong Li, Renmin University of China
+* Rui Feng, Wuhan University
 
 
 ## Alumni
@@ -26,3 +26,6 @@ classes: wide
   * Wearable AI, data science
 * Jessie Li, 2025–2026 Intern, M.S. from UC Berkeley — Next: Ph.D. student at UC Berkeley
   * Generative AI, human mobility
+* Xintong Li, 2025–2026 Intern, Undergraduate at Renmin University of China, — Next: Ph.D. student at CMU
+  * Human-centric AI, human mobility
+
