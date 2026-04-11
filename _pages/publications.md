@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page summarizes the publications related to Large Language Model (LLM), Generative AI, Generalizable AI, AIoT, Ubiquitous and Mobile Sensing, Deployable Sensing Systems, and Spatio-temporal Data Science. + indicates co-first authors. The authors with <u>underline</u> are the students working primarily or partially with me.
+This page summarizes the publications related to Large Language Models (LLMs), Embodied AI, Generative AI, Generalizable AI, AIoT, Ubiquitous and Mobile Sensing, Deployable Sensing Systems, and Spatio-temporal Data Science. + indicates co-first authors. The authors with <u>underline</u> are the students working primarily or partially with me.
 
 
 ## Preprint
@@ -23,9 +23,12 @@ Baoshen Guo+, **Zhiqing Hong+**, Lidan Cao+, Donghang Li, Junyi Li, Can Rong, Al
 <span style="color:Forestgreen;font-weight:bold">[2026]</span> *Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision* <br>
 <u>Jessie Li</u>, **Zhiqing Hong**, Toru Shirakawa, Serina Chang<br>
 
+<span style="color:Forestgreen;font-weight:bold">[2026]</span> *Wearable AI in the Era of Large Sensor Models* <br>
+<u>Yize Cai</u>, Baoshen Guo, Guobin Shen, **Zhiqing Hong**<br>
+
 ## 2026
 <span style="color:royalblue;font-weight:bold">[Nature Cities]</span> *Evolving Greenhouse Gas Emissions Measurement from Urban Delivery with Millions of Phones* <br>
-**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyu, Haotian Wang, Shenhao Wang, Shuai Wang, Yunhuai Liu, Dabo Guan, Tian He, Guang Wang, and Desheng Zhang (**Accepted in Principle**)<br>
+**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyu, Haotian Wang, Shenhao Wang, Shuai Wang, Yunhuai Liu, Dabo Guan, Tian He, Guang Wang, and Desheng Zhang (**Accepted for Publication**)<br>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> *GenHAR: Generalizing Cross-domain Human Activity Recognition via Frequency Attention LLMs* <br>
 **Zhiqing Hong**, Zelong Li, Xiubin Fan, Guang Yang, Baoshen Guo, Haotian Wang, Tian He, Desheng Zhang<be>
