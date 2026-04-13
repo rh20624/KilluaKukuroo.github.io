@@ -203,6 +203,10 @@ Foundation Language Models accepted by EMNLP 2024.
 
 **Selected Publications**
 
+<span style="color:Forestgreen;font-weight:bold">[Nature Cities'26]</span> *Evolving Greenhouse Gas Emissions Measurement from Urban Delivery with Millions of Phones* <br>
+**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyu, Haotian Wang, Shenhao Wang, Shuai Wang, Yunhuai Liu, Dabo Guan, Tian He, Guang Wang, and Desheng Zhang<br>
+<u>Highlight</u>: **AI** and **IoT** for **Nationwide Measurement of** fine-grained carbon emissions in **366 cities**
+
 <span style="color:Forestgreen;font-weight:bold">[MobiCom'25]</span> *DeployHAR: Experience Paper: Nationwide Human Behavior Sensing in Last-mile Delivery* <br>
 **Zhiqing Hong**, Weibing Wang, Anlan Yu, Shuxin Zhong, Haotian Wang, Yi Ding, Tian He, Desheng Zhang<br>
 <u>Highlight</u>: **Efficient Pretraining Model** for **Nationwide Deployment of** on-device human behavior sensing, covering **500,000** devices in **366 cities**
@@ -214,10 +218,6 @@ Foundation Language Models accepted by EMNLP 2024.
 <span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *CrossHAR: Generalizing Cross-dataset Human Activity Recognition via Hierarchical Self-Supervised Pretraining* [PDF](https://dl.acm.org/doi/10.1145/3659597) <br>
 **Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
 <u>Highlight</u>: **Sensor Foundation Model** for generalizable human behavior sensing (**Top 2 most read papers in Ubicomp, 2024 May Volumn**)
-
-<span style="color:Forestgreen;font-weight:bold">[IMWUT/Ubicomp'24]</span> *SmallMap: Low-cost Community Road Map Sensing with Uncertain Delivery Behavior* [PDF](https://dl.acm.org/doi/10.1145/3659596) <br>
-**Zhiqing Hong**, Haotian Wang, Yi Ding, Guang Wang, Tian He, and Desheng Zhang<br>
-<u>Highlight</u>: **Generative AI** for urban map generation (**Algorithm adopted by industry partners**)
 
 <span style="color:Forestgreen;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* [PDF](https://ieeexplore.ieee.org/document/10552380) <br>
 **Zhiqing Hong**, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
