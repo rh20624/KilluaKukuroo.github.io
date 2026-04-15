@@ -8,15 +8,15 @@ author_profile: true
 **Biography**
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
     I am an Assistant Professor in <a href="https://iott.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">the Information Hub, IoT Thrust</a>, <a href="https://www.hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">Hong Kong University of Science and Technology (Guangzhou)</a>. Previously, I am a visiting researcher at <a href="https://bair.berkeley.edu/" target="_blank" rel="noopener noreferrer">Berkeley AI Research (BAIR) Lab</a>, <a href="https://eecs.berkeley.edu/" target="_blank" rel="noopener noreferrer">UC Berkeley</a>. I got a Ph.D. degree from the Department of Computer Science, Rutgers University, luckily advised by Prof. 
-    <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a> (Associate Professor at Rutgers & Visiting Professor at MIT), Prof.<a href="https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Tian He</a> (ACM/IEEE Fellow & VP at JD.COM), and Prof.<a href="https://scholar.google.com/citations?user=fsaThecAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Yunhuai Liu</a> (Professor at Peking University).
+    <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank" rel="noopener noreferrer">Desheng Zhang</a> (Associate Professor at Rutgers & Visiting Professor at MIT) and Prof.<a href="https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Tian He</a> (ACM/IEEE Fellow & VP at JD.COM).
     
     
 </div>
 <div style="height: 3px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
     I work on <strong>Human-centric AI</strong>. 
-    My research interests broadly lie in <strong>Embodied AI</strong>, Large Language Models (LLMs), Large Sensor Models (LSMs), Generative AI,
-    and <strong>Wearable and Ubiquitous Computing</strong>. I have been investigating 
+    My research interests broadly lie in Embodied AI, Large Language Models (LLMs), Large Sensor Models (LSMs), Generative AI,
+    and Wearable and Ubiquitous Computing. I have been investigating 
     platforms across more than 300 cities on 2 continents with 2 billion E-commerce orders, 300 thousand vehicles, 500 thousand mobile 
     devices, and 500 million residents involved.
 </div>
