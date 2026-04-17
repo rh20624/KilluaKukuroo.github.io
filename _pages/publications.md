@@ -12,7 +12,7 @@ This page summarizes the publications related to Large Language Models (LLMs), E
 ## Preprint
 
 <span style="color:Forestgreen;font-weight:bold">[2026]</span> *WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models* <br>
-<u>Anlan Yu+</u>, Zaishu Chen+, Peili Song, **Zhiqing Hong***, Haotian Wang, Desheng Zhang, Tian He, Yi Ding, Daqing Zhang*<br>
+<u>Anlan Yu+</u>, Zaishu Chen+, Peili Song, **Zhiqing Hong\***, Haotian Wang, Desheng Zhang, Tian He, Yi Ding, Daqing Zhang\*<br>
 
 <span style="color:Forestgreen;font-weight:bold">[2026]</span> *Any to Full: Prompting Depth Anything for Depth Completion in One Stage* <br>
 <u>Zhiyuan Zhou</u>, Ruofeng Liu, Taichi Liu, Weijian Zuo, Shanshan Wang, **Zhiqing Hong**, Desheng Zhang<br>
