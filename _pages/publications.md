@@ -31,8 +31,8 @@ Baoshen Guo+, **Zhiqing Hong+**, Lidan Cao+, Donghang Li, Junyi Li, Can Rong, Al
 
 
 ## 2026
-<span style="color:royalblue;font-weight:bold">[Nature Cities]</span> *Evolving Greenhouse Gas Emissions Measurement from Urban Delivery with Millions of Phones* <br>
-**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyu, Haotian Wang, Shenhao Wang, Shuai Wang, Yunhuai Liu, Dabo Guan, Tian He, Guang Wang, and Desheng Zhang (**Accepted for Publication**)<br>
+<span style="color:royalblue;font-weight:bold">[Nature Cities]</span> *Decarbonizing emissions from last-mile deliveries in Chinese cities* <br>
+**Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyu, Haotian Wang, Shenhao Wang, Shuai Wang, Yunhuai Liu, Dabo Guan, Tian He, Guang Wang, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> *GenHAR: Generalizing Cross-domain Human Activity Recognition via Frequency Attention LLMs* <br>
 **Zhiqing Hong**, Zelong Li, Xiubin Fan, Guang Yang, Baoshen Guo, Haotian Wang, Tian He, Desheng Zhang<be>
