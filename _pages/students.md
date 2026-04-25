@@ -16,6 +16,7 @@ classes: wide
 * Anlan Yu, Peking University
 * Jiahao Shu, University of Science and Technology of China
 * Rui Feng, Wuhan University
+* Yaxuan Li, Harbin Institute of Technology (Shenzhen)
 
 
 ## Alumni
