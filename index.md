@@ -50,6 +50,15 @@ author_profile: true
         <span style="color: #87CEEB; font-weight: bold;">April 2026:</span> Invited to serve as a Guest Editor for the IEEE Pervasive Computing Special Issue on “Revisiting Mobility”. Please submit! 
     </div>
     <div style="margin-bottom: 10px;">
+    <span style="color: #87CEEB; font-weight: bold;">April 2026:</span>
+    Invited to serve as a Guest Editor for the IEEE Pervasive Computing Special Issue on 
+    <a href="https://www.computer.org/digital-library/magazines/pc/cfp-revisiting-mobility" target="_blank">
+        <span style="background-color: #fff3a0; font-weight: bold; padding: 2px 4px; border-radius: 4px;">
+            “Revisiting Mobility”
+        </span>
+    </a>. Please submit!
+    </div>
+    <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">April 2026:</span> Our paper about LLM Agent for localization accepted by AutoSys 2026 (workshop at MobiSys). 
     </div>
     <div style="margin-bottom: 10px;">
