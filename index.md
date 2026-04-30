@@ -59,7 +59,7 @@ author_profile: true
         <span style="background-color: #fff3a0; font-weight: bold; padding: 2px 4px; border-radius: 4px;">
             “Revisiting Mobility”
         </span>
-    </a>. Please submit!
+    </a>. Please consider submitting!
     </div>
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">April 2026:</span> Our paper about LLM Agent for localization accepted by AutoSys 2026 (workshop at MobiSys). 
