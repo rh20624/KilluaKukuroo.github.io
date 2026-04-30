@@ -47,6 +47,9 @@ author_profile: true
         <span style="color: #87CEEB; font-weight: bold;">April 2026:</span> Our paper about developing AI and IoT techniques for fine-grained carbon emission estimation accepted by Nature Cities. 
     </div>
     <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">April 2026:</span> Invited to serve as a Guest Editor for the IEEE Pervasive Computing Special Issue on “Revisiting Mobility”. Please submit! 
+    </div>
+    <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">April 2026:</span> Our paper about LLM Agent for localization accepted by AutoSys 2026 (workshop at MobiSys). 
     </div>
     <div style="margin-bottom: 10px;">
@@ -202,7 +205,7 @@ Foundation Language Models accepted by EMNLP 2024.
 
 **Selected Publications**
 
-<span style="color:Forestgreen;font-weight:bold">[Nature Cities'26]</span> *Evolving Greenhouse Gas Emissions Measurement from Urban Delivery with Millions of Phones* <br>
+<span style="color:Forestgreen;font-weight:bold">[Nature Cities'26]</span> *Decarbonizing emissions from last-mile deliveries in Chinese cities* [PDF](https://www.nature.com/articles/s44284-026-00423-1) <br>
 **Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyu, Haotian Wang, Shenhao Wang, Shuai Wang, Yunhuai Liu, Dabo Guan, Tian He, Guang Wang, and Desheng Zhang<br>
 <u>Highlight</u>: **AI** and **IoT** for **Nationwide Measurement of** fine-grained carbon emissions in **366 cities**
 
