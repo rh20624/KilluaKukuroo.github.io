@@ -44,10 +44,13 @@ author_profile: true
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
     <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">April 2026:</span> Our paper about developing AI and IoT techniques for fine-grained carbon emission estimation accepted by Nature Cities. 
-    </div>
-    <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">April 2026:</span> Invited to serve as a Guest Editor for the IEEE Pervasive Computing Special Issue on “Revisiting Mobility”. Please submit! 
+    <span style="color: #87CEEB; font-weight: bold;">April 2026:</span>
+    Our paper about developing AI and IoT techniques for fine-grained carbon emission estimation accepted by 
+    <a href="https://www.nature.com/articles/s44284-026-00423-1" target="_blank">
+        <span style="background-color: #fff3a0; font-weight: bold; padding: 2px 4px; border-radius: 4px;">
+            Nature Cities!
+        </span>
+    </a>. 
     </div>
     <div style="margin-bottom: 10px;">
     <span style="color: #87CEEB; font-weight: bold;">April 2026:</span>
