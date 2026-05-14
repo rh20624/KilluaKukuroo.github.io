@@ -43,6 +43,16 @@ author_profile: true
 **Recent News**
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
+    
+    <div style="margin-bottom: 10px;">
+    <span style="color: #87CEEB; font-weight: bold;">April 2026:</span>
+    Our team at HKUST(GZ) won the First Prize in the IMU-based Object Activity Recognition Competition at 
+    <a href="https://www.linkedin.com/posts/cps-iot-week_cpsiot-pal2sim-ai-activity-7460298236394762240-Hv1U?utm_source=share&utm_medium=member_desktop&rcm=ACoAABti_9EBsNaBZm3E9qkjJTG9OBSjQG2T1hI" target="_blank">
+        <span style="background-color: #fff3a0; font-weight: bold; padding: 2px 4px; border-radius: 4px;">
+            IEEE/ACM CPS-IoT Week!
+        </span>
+    </a>. 
+    </div>
     <div style="margin-bottom: 10px;">
     <span style="color: #87CEEB; font-weight: bold;">April 2026:</span>
     Our paper about developing AI and IoT techniques for fine-grained carbon emission estimation accepted by 
