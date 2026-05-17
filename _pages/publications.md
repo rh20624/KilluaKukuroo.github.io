@@ -44,6 +44,10 @@ Baoshen Guo+, **Zhiqing Hong+**, Lidan Cao+, Donghang Li, Junyi Li, Can Rong, Al
 Erfan Jahanparast, **Zhiqing Hong**, Serina Chang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> 
+<i>Think Before Action: Learning Suction Health for Reliable Grasp Evaluation in Logistics</i> <br>
+Zhaotie Hao, <b>Zhiqing Hong</b>, Jiangyi Fang, Jiawei Ma, Xiangyu Li, Desheng Zhang, Haotian Wang, Tian He, and Zhimeng Yin<br>
+
+<span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> 
 <i>Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion</i> <br>
 Baoshen Guo, <b>Zhiqing Hong</b>, Junyi Li, Shenhao Wang, and Jinhua Zhao<br>
 
