@@ -9,27 +9,6 @@ author_profile: true
 This page summarizes the publications related to Large Language Models (LLMs), Embodied AI, Generative AI, Generalizable AI, AIoT, Ubiquitous and Mobile Sensing, Deployable Sensing Systems, and Spatio-temporal Data Science. + indicates co-first authors, * indicates correponding authors. The authors with <u>underline</u> are the students working primarily or partially with me.
 
 
-## Preprint
-
-<span style="color:Forestgreen;font-weight:bold">[2026]</span> *WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models* <br>
-<u>Anlan Yu+</u>, Zaishu Chen+, Peili Song, **Zhiqing Hong\***, Haotian Wang, Desheng Zhang, Tian He, Yi Ding, Daqing Zhang\*<br>
-
-<span style="color:Forestgreen;font-weight:bold">[2026]</span> *Any to Full: Prompting Depth Anything for Depth Completion in One Stage* <br>
-<u>Zhiyuan Zhou</u>, Ruofeng Liu, Taichi Liu, Weijian Zuo, Shanshan Wang, **Zhiqing Hong**, Desheng Zhang<br>
-
-<span style="color:Forestgreen;font-weight:bold">[2026]</span> *Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision* <br>
-<u>Jessie Li</u>, **Zhiqing Hong**, Toru Shirakawa, Serina Chang<br>
-
-<span style="color:Forestgreen;font-weight:bold">[2026]</span> *Wearable AI in the Era of Large Sensor Models* <br>
-<u>Yize Cai</u>, Baoshen Guo, Guobin Shen, **Zhiqing Hong**<br>
-
-<span style="color:Forestgreen;font-weight:bold">[2025]</span> *Towards Generalizable Human Activity Recognition: A Survey* <br>
-<u>Yize Cai</u>, Baoshen Guo, Flora Salim, **Zhiqing Hong**<br>
-
-<span style="color:Forestgreen;font-weight:bold">[2025]</span> *Language Modeling for Urban Mobility: A Data-Centric Review and Guidelines* <br>
-Baoshen Guo+, **Zhiqing Hong+**, Lidan Cao+, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao<br>
-
-
 ## 2026
 <span style="color:royalblue;font-weight:bold">[Nature Cities]</span> *Decarbonizing emissions from last-mile deliveries in Chinese cities* <br>
 **Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyu, Haotian Wang, Shenhao Wang, Shuai Wang, Yunhuai Liu, Dabo Guan, Tian He, Guang Wang, and Desheng Zhang<br>
@@ -56,6 +35,26 @@ Baoshen Guo, <b>Zhiqing Hong</b>, Junyi Li, Shenhao Wang, and Jinhua Zhao<br>
 
 <span style="color:royalblue;font-weight:bold">[TMC'26]</span> *Mobility-Aware Order Relay in Last-Mile Delivery* <br>
 Wenjun Lyu, Haotian Wang, **Zhiqing Hong**, Guang Wang, Yu Yang, Shuai Wang, Yunhuai Liu, Tian He, and Desheng Zhang<br>
+
+## Preprint
+
+<span style="color:Forestgreen;font-weight:bold">[2026]</span> *WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models* <br>
+<u>Anlan Yu+</u>, Zaishu Chen+, Peili Song, **Zhiqing Hong\***, Haotian Wang, Desheng Zhang, Tian He, Yi Ding, Daqing Zhang\*<br>
+
+<span style="color:Forestgreen;font-weight:bold">[2026]</span> *Any to Full: Prompting Depth Anything for Depth Completion in One Stage* <br>
+<u>Zhiyuan Zhou</u>, Ruofeng Liu, Taichi Liu, Weijian Zuo, Shanshan Wang, **Zhiqing Hong**, Desheng Zhang<br>
+
+<span style="color:Forestgreen;font-weight:bold">[2026]</span> *Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision* <br>
+<u>Jessie Li</u>, **Zhiqing Hong**, Toru Shirakawa, Serina Chang<br>
+
+<span style="color:Forestgreen;font-weight:bold">[2026]</span> *Wearable AI in the Era of Large Sensor Models* <br>
+<u>Yize Cai</u>, Baoshen Guo, Guobin Shen, **Zhiqing Hong**<br>
+
+<span style="color:Forestgreen;font-weight:bold">[2025]</span> *Towards Generalizable Human Activity Recognition: A Survey* <br>
+<u>Yize Cai</u>, Baoshen Guo, Flora Salim, **Zhiqing Hong**<br>
+
+<span style="color:Forestgreen;font-weight:bold">[2025]</span> *Language Modeling for Urban Mobility: A Data-Centric Review and Guidelines* <br>
+Baoshen Guo+, **Zhiqing Hong+**, Lidan Cao+, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao<br>
 
 ## 2025
 
