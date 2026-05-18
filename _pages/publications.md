@@ -20,11 +20,11 @@ This page summarizes the publications related to Large Language Models (LLMs), E
 **Zhiqing Hong**, Baoshen Guo, Wenjun Lyu, Haotian Wang, Yunhuai Liu, Guang Wang, Tian He, and Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[ICLR'26]</span> *What Do Large Language Models Know About Opinions?* <br>
-Erfan Jahanparast, **Zhiqing Hong**, Serina Chang<br>
+<u>Erfan Jahanparast</u>, **Zhiqing Hong**, Serina Chang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> 
 <i>Think Before Action: Learning Suction Health for Reliable Grasp Evaluation in Logistics</i> <br>
-Zhaotie Hao, <b>Zhiqing Hong</b>, Jiangyi Fang, Jiawei Ma, Xiangyu Li, Desheng Zhang, Haotian Wang, Tian He, and Zhimeng Yin<br>
+<u>Zhaotie Hao</u>, <b>Zhiqing Hong</b>, Jiangyi Fang, Jiawei Ma, Xiangyu Li, Desheng Zhang, Haotian Wang, Tian He, and Zhimeng Yin<br>
 
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> 
 <i>Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion</i> <br>
