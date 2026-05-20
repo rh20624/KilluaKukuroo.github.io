@@ -217,9 +217,6 @@ Foundation Language Models accepted by EMNLP 2024.
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">Apr. 2022:</span> Two papers accepted by Ubicomp'22.
     </div>
-    <div style="margin-bottom: 10px;">
-        <span style="color: #87CEEB; font-weight: bold;">Mar. 2021:</span> Visit JD Logistics, AI and Data Science Group, hosted by Prof. Tian He.
-    </div>
 </div>
 
 
