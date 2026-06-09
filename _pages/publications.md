@@ -36,6 +36,9 @@ Baoshen Guo, <b>Zhiqing Hong</b>, Junyi Li, Shenhao Wang, and Jinhua Zhao<br>
 <span style="color:Forestgreen;font-weight:bold">[AAAI'26]</span> *GeoGen: A Two-stage Coarse-to-Fine Framework for Fine-grained Synthetic Location-based Social Network Trajectory Generation* <br>
 <u>Rongchao Xu</u>, Kunlin Cai, Lin Jiang, Dahai Yu, **Zhiqing Hong**, Yuan Tian, and Guang Wang<be>
 
+<span style="color:royalblue;font-weight:bold">[TMC'26]</span> *Beyond Navigation: Unlocking the High-precision Sensing Potential of GNSS Signals* <br>
+<u>Anlan Yu</u>, Xujun Ma, **Zhiqing Hong**, Pei Wang, Xuanzhi Wang, Jinkun Li, Haotian Wang, Yi Ding, and Daqing Zhang<br>
+
 <span style="color:royalblue;font-weight:bold">[TMC'26]</span> *Mobility-Aware Order Relay in Last-Mile Delivery* <br>
 Wenjun Lyu, Haotian Wang, **Zhiqing Hong**, Guang Wang, Yu Yang, Shuai Wang, Yunhuai Liu, Tian He, and Desheng Zhang<br>
 
@@ -43,6 +46,9 @@ Wenjun Lyu, Haotian Wang, **Zhiqing Hong**, Guang Wang, Yu Yang, Shuai Wang, Yun
 
 <span style="color:Forestgreen;font-weight:bold">[2026]</span> *WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models* <br>
 <u>Anlan Yu+</u>, Zaishu Chen+, Peili Song, **Zhiqing Hong\***, Haotian Wang, Desheng Zhang, Tian He, Yi Ding, Daqing Zhang\*<br>
+
+<span style="color:Forestgreen;font-weight:bold">[2026]</span> *Towards a Data Flywheel for Embodied Intelligence in Logistics* <br>
+<u>Anlan Yu</u>, Zaishu Chen, **Zhiqing Hong\***, and Daqing Zhang\*<br>
 
 <span style="color:Forestgreen;font-weight:bold">[2026]</span> *Any to Full: Prompting Depth Anything for Depth Completion in One Stage* <br>
 <u>Zhiyuan Zhou</u>, Ruofeng Liu, Taichi Liu, Weijian Zuo, Shanshan Wang, **Zhiqing Hong**, Desheng Zhang<br>
