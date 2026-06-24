@@ -25,6 +25,9 @@ This page summarizes the publications related to Large Language Models (LLMs), E
 <span style="color:Forestgreen;font-weight:bold">[ICLR'26]</span> *What Do Large Language Models Know About Opinions?* <br>
 <u>Erfan Jahanparast</u>, **Zhiqing Hong**, Serina Chang<br>
 
+<span style="color:Forestgreen;font-weight:bold">[ECCV'26]</span> *Any to Full: Prompting Depth Anything for Depth Completion in One Stage* <br>
+<u>Zhiyuan Zhou</u>, Ruofeng Liu, Taichi Liu, Weijian Zuo, Shanshan Wang, **Zhiqing Hong**, Desheng Zhang<br>
+
 <span style="color:Forestgreen;font-weight:bold">[KDD'26]</span> 
 <i>Think Before Action: Learning Suction Health for Reliable Grasp Evaluation in Logistics</i> <br>
 <u>Zhaotie Hao</u>, <b>Zhiqing Hong</b>, Jiangyi Fang, Jiawei Ma, Xiangyu Li, Desheng Zhang, Haotian Wang, Tian He, and Zhimeng Yin<br>
@@ -49,9 +52,6 @@ Wenjun Lyu, Haotian Wang, **Zhiqing Hong**, Guang Wang, Yu Yang, Shuai Wang, Yun
 
 <span style="color:Forestgreen;font-weight:bold">[2026]</span> *Towards a Data Flywheel for Embodied Intelligence in Logistics* <br>
 <u>Anlan Yu</u>, Zaishu Chen, **Zhiqing Hong\***, and Daqing Zhang\*<br>
-
-<span style="color:Forestgreen;font-weight:bold">[2026]</span> *Any to Full: Prompting Depth Anything for Depth Completion in One Stage* <br>
-<u>Zhiyuan Zhou</u>, Ruofeng Liu, Taichi Liu, Weijian Zuo, Shanshan Wang, **Zhiqing Hong**, Desheng Zhang<br>
 
 <span style="color:Forestgreen;font-weight:bold">[2026]</span> *Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision* <br>
 <u>Jessie Li</u>, **Zhiqing Hong**, Toru Shirakawa, Serina Chang<br>
